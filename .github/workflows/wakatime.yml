@@ -1,0 +1,35 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # runs every 12h starting at 12pm
+    # now it's every 4h
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+
+    steps:
+      # this action name
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.README_GH }}
+          WAKATIME_API_KEY: ${{ secrets.README_WT }}
+          ### content
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
+          ### commit
+          COMMIT_MESSAGE: WakaTime Activity
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: チンモイ
+          COMMITTER_EMAIL: wakawaka@github.com
