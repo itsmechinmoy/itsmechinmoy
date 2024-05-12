@@ -9,6 +9,12 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:13 10 May 2024)
+-   📺 Watched episode 2 - 14 of [Maid-Sama!](https://anilist.co/anime/7054) (06:13 10 May 2024)
+-   📺 Completed [The Weakest Tamer Began a Journey to Pick Up Trash](https://anilist.co/anime/156891) (07:54 09 May 2024)
+-   📺 Completed [The Wrong Way to Use Healing Magic](https://anilist.co/anime/137908) (07:10 09 May 2024)
+-   📺 Watched episode 9 - 13 of [The Wrong Way to Use Healing Magic](https://anilist.co/anime/137908) (07:09 09 May 2024)
+
 <!-- ANILIST_ACTIVITY:end -->
 # 
 [![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
