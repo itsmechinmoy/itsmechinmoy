@@ -7,9 +7,13 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/523539866311720963?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&hideActivity=whenNotUsed)](https://discord.com/users/523539866311720963)<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zczwoe3obxakjgkio7anubhkaq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zczwoe3obxakjgkio7anubhkaq&redirect=true)
 
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+# 
+[![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-# 
-[![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </div>
