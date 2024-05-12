@@ -17,7 +17,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.README_GH }}
-          WAKATIME_API_KEY: ${{ secrets.README_WT }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
