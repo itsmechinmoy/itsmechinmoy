@@ -1,0 +1,26 @@
+name: AniList readme workflow
+on:
+  schedule:
+    # Goal is: Every 30 minutes, daily between 01:00 PM and 03:59 AM
+    # now it's every 20 minutes
+    # now it's every 4h
+    - cron: "* */04 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-anilist:
+    name: Update this repo's README with latest AniList activites
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: AniList readme workflow
+        uses: pxseu/anilist-readme@v1.4.2
+        with:
+          user_id: 5790266
+          max_post_count: 10
+          commit_username: オタ
+          commit_email: anilistcansuckmydick@github.com
+          commit_message: "AniList Activity"
+          timezone: "Asia/Delhi"
+          date_format: "{h}:{m} • {D} {MW}, {Y}"
