@@ -27,15 +27,3 @@
 # Github Stats
 [![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 11 May 2024 - To: 11 May 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
