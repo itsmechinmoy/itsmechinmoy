@@ -3,8 +3,8 @@ on:
   schedule:
     # Goal is: Every 30 minutes, daily between 01:00 PM and 03:59 AM
     # now it's every 20 minutes
-    # now it's every 4h
-    - cron: "* */04 * * *"
+    # now it's every 1h
+    - cron: "* */01 * * *"
   workflow_dispatch:
 
 jobs:
