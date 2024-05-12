@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1104 of [ONE PIECE](https://anilist.co/anime/21) (12:10 12 May 2024)
 -   📺 Watched episode 6 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:13 10 May 2024)
 -   📺 Watched episode 2 - 14 of [Maid-Sama!](https://anilist.co/anime/7054) (06:13 10 May 2024)
 -   📺 Completed [The Weakest Tamer Began a Journey to Pick Up Trash](https://anilist.co/anime/156891) (07:54 09 May 2024)
 -   📺 Completed [The Wrong Way to Use Healing Magic](https://anilist.co/anime/137908) (07:10 09 May 2024)
--   📺 Watched episode 9 - 13 of [The Wrong Way to Use Healing Magic](https://anilist.co/anime/137908) (07:09 09 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
