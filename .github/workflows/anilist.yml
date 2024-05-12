@@ -17,8 +17,8 @@ jobs:
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@v1.4.2
         with:
-          user_id: 5790266
-          max_post_count: 10
+          user_id: 6110204
+          max_post_count: 5
           commit_username: オタ
           commit_email: anilistcansuckmydick@github.com
           commit_message: "AniList Activity"
