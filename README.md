@@ -27,4 +27,12 @@
 # Stats
 [![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=25004176&theme=dark" height="194"/>
+
+<!--START_SECTION:waka-->
+
+```txt
+
+```
+
+<!--END_SECTION:waka-->
 </div>
