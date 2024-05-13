@@ -31,5 +31,5 @@ jobs:
           COMMIT_MESSAGE: WakaTime Activity
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: チンモイ
+          COMMITTER_NAME: オタt
           COMMITTER_EMAIL: wakawaka@github.com
