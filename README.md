@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (09:22 16 May 2024)
+-   📺 Watched episode 2 - 3 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (09:36 16 May 2024)
 -   📺 Watched episode 2 - 4 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (08:37 16 May 2024)
 -   📺 Watched episode 19 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:21 13 May 2024)
 -   📺 Watched episode 1104 of [ONE PIECE](https://anilist.co/anime/21) (12:10 12 May 2024)
