@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Aura](https://anilist.co/anime/14669) (08:29 19 May 2024)
--   📺 Completed [After the Rain](https://anilist.co/anime/98385) (08:29 19 May 2024)
--   📺 Watched episode 1 - 11 of [After the Rain](https://anilist.co/anime/98385) (08:28 19 May 2024)
--   📖 Plans to read [Vagabond](https://anilist.co/manga/30656) (08:28 19 May 2024)
--   📖 Read chapter 29 of [Kaiju No.8](https://anilist.co/manga/120760) (08:26 19 May 2024)
+-   📺 Completed [Rail Wars!](https://anilist.co/anime/20583) (08:31 19 May 2024)
+-   📺 Watched episode 1 - 11 of [Rail Wars!](https://anilist.co/anime/20583) (08:30 19 May 2024)
+-   📺 Completed [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
+-   📺 Watched episode 7 - 11 of [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
+-   📺 Completed [Delusional Monthly Magazine](https://anilist.co/anime/169418) (08:29 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
