@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1105 of [ONE PIECE](https://anilist.co/anime/21) (17:47 19 May 2024)
 -   📺 Completed [Rail Wars!](https://anilist.co/anime/20583) (08:31 19 May 2024)
 -   📺 Watched episode 1 - 11 of [Rail Wars!](https://anilist.co/anime/20583) (08:30 19 May 2024)
 -   📺 Completed [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
 -   📺 Watched episode 7 - 11 of [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
--   📺 Completed [Delusional Monthly Magazine](https://anilist.co/anime/169418) (08:29 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
