@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 5 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (16:24 16 May 2024)
--   📺 Watched episode 2 - 4 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (08:37 16 May 2024)
--   📺 Watched episode 19 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:21 13 May 2024)
--   📺 Watched episode 1104 of [ONE PIECE](https://anilist.co/anime/21) (12:10 12 May 2024)
--   📺 Watched episode 6 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:13 10 May 2024)
+-   📺 Completed [Aura](https://anilist.co/anime/14669) (08:29 19 May 2024)
+-   📺 Completed [After the Rain](https://anilist.co/anime/98385) (08:29 19 May 2024)
+-   📺 Watched episode 1 - 11 of [After the Rain](https://anilist.co/anime/98385) (08:28 19 May 2024)
+-   📖 Plans to read [Vagabond](https://anilist.co/manga/30656) (08:28 19 May 2024)
+-   📖 Read chapter 29 of [Kaiju No.8](https://anilist.co/manga/120760) (08:26 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
