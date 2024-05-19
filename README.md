@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:12 19 May 2024)
+-   📺 Watched episode 7 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:08 19 May 2024)
 -   📺 Watched episode 1105 of [ONE PIECE](https://anilist.co/anime/21) (17:47 19 May 2024)
 -   📺 Completed [Rail Wars!](https://anilist.co/anime/20583) (08:31 19 May 2024)
 -   📺 Watched episode 1 - 11 of [Rail Wars!](https://anilist.co/anime/20583) (08:30 19 May 2024)
--   📺 Completed [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
--   📺 Watched episode 7 - 11 of [Drug Store in Another World - The Slow Life of a Cheat Pharmacist](https://anilist.co/anime/114302) (08:30 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
