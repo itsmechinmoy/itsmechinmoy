@@ -52,9 +52,8 @@ Text              1 min           ░░░░░░░░░░░░░░░�
 
 # Repositories
 [![Itsmechinmoy's Dantotsu stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotsu&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotsu)
-[![Itsmechinmoy's Dantotustatic stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotustatic&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotustatic)
 [![Itsmechinmoy's Dantotsu-Updater stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotsu-updater&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotsu-updater)
 [![Itsmechinmoy's Awery-Updater stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=awery-updater&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/awery-updater)
-[![Itsmechinmoy's Awery-Updater stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=himitsu-updater&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/himitsu-updater)
 [![Itsmechinmoy's Echo-Updater stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=echo-updater&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/echo-updater)
+[![Itsmechinmoy's Dantotustatic stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotustatic&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotustatic)
 </div>
