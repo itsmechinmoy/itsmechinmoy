@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:32 24 May 2024)
 -   📺 Completed [Undefeated Bahamut Chronicle](https://anilist.co/anime/21188) (08:48 24 May 2024)
 -   📺 Completed [WATATEN!: an Angel Flew Down to Me](https://anilist.co/anime/102680) (18:36 23 May 2024)
 -   📺 Watched episode 2 - 7 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:13 23 May 2024)
 -   📺 Watched episode 7 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (16:13 21 May 2024)
--   📺 Watched episode 5 - 8 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:51 20 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
