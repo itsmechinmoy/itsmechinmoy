@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Kaiji - Against All Rules](https://anilist.co/anime/10271) (09:15 25 May 2024)
--   📺 Watched episode 2 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:32 24 May 2024)
--   📺 Completed [Undefeated Bahamut Chronicle](https://anilist.co/anime/21188) (08:48 24 May 2024)
--   📺 Completed [WATATEN!: an Angel Flew Down to Me](https://anilist.co/anime/102680) (18:36 23 May 2024)
--   📺 Watched episode 2 - 7 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:13 23 May 2024)
+-   📺 Completed [Tsubasa RESERVoir CHRoNiCLE 2nd Season](https://anilist.co/anime/969) (11:44 25 May 2024)
+-   📺 Completed [Tsubasa RESERVoir CHRoNiCLE](https://anilist.co/anime/177) (11:43 25 May 2024)
+-   📺 Completed [Beyond the Boundary -I'LL BE HERE-: Past](https://anilist.co/anime/20768) (11:42 25 May 2024)
+-   📺 Completed [Beyond the Boundary -I'LL BE HERE-: Future](https://anilist.co/anime/20963) (11:42 25 May 2024)
+-   📺 Completed [Beyond the Boundary](https://anilist.co/anime/18153) (11:41 25 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
