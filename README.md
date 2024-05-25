@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [Kaiju No.8](https://anilist.co/manga/120760) (17:31 25 May 2024)
+-   📖 Read chapter 39 of [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (17:31 25 May 2024)
+-   📖 Read chapter 59 of [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/manga/98171) (17:24 25 May 2024)
 -   📺 Completed [Tsubasa RESERVoir CHRoNiCLE 2nd Season](https://anilist.co/anime/969) (11:44 25 May 2024)
 -   📺 Completed [Tsubasa RESERVoir CHRoNiCLE](https://anilist.co/anime/177) (11:43 25 May 2024)
--   📺 Completed [Beyond the Boundary -I'LL BE HERE-: Past](https://anilist.co/anime/20768) (11:42 25 May 2024)
--   📺 Completed [Beyond the Boundary -I'LL BE HERE-: Future](https://anilist.co/anime/20963) (11:42 25 May 2024)
--   📺 Completed [Beyond the Boundary](https://anilist.co/anime/18153) (11:41 25 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
