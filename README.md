@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 46 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:20 26 May 2024)
+-   📖 Read chapter 46 - 48 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:27 26 May 2024)
 -   📖 Read chapter 111 of [Uzaki-chan Wants to Hang Out!](https://anilist.co/manga/101724) (17:32 25 May 2024)
 -   📖 Read chapter 22 of [Demon Lord Exchange!!](https://anilist.co/manga/166150) (17:32 25 May 2024)
 -   📖 Read chapter 39 of [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (17:31 25 May 2024)
