@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:24 27 May 2024)
 -   📺 Watched episode 7 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:09 27 May 2024)
 -   📺 Watched episode 21 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (17:56 27 May 2024)
 -   📺 Watched episode 8 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (17:42 27 May 2024)
 -   📖 Completed [Dujipsallim](https://anilist.co/manga/133063) (09:51 26 May 2024)
--   📖 Read chapter 46 - 48 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:27 26 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
