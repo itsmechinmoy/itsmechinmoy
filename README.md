@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 4 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:30 31 May 2024)
+-   📺 Watched episode 3 - 5 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:44 31 May 2024)
 -   📺 Watched episode 8 - 9 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:00 31 May 2024)
 -   📺 Watched episode 1106 of [ONE PIECE](https://anilist.co/anime/21) (18:43 30 May 2024)
 -   📺 Watched episode 8 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:30 30 May 2024)
