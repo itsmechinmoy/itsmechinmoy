@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:16 31 May 2024)
+-   📺 Watched episode 8 - 9 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:00 31 May 2024)
 -   📺 Watched episode 1106 of [ONE PIECE](https://anilist.co/anime/21) (18:43 30 May 2024)
 -   📺 Watched episode 8 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:30 30 May 2024)
--   📺 Watched episode 8 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:17 30 May 2024)
 -   📖 Plans to read [DEAD Tube](https://anilist.co/manga/85671) (03:58 30 May 2024)
--   📺 Watched episode 9 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:24 27 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
