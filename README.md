@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:15 06 June 2024)
+-   📺 Watched episode 8 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:11 06 June 2024)
 -   📺 Watched episode 10 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:04 05 June 2024)
 -   📺 Watched episode 9 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (17:39 05 June 2024)
 -   📺 Watched episode 1107 of [ONE PIECE](https://anilist.co/anime/21) (19:11 04 June 2024)
--   📺 Watched episode 6 - 8 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (19:14 03 June 2024)
--   📺 Watched episode 3 - 5 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:44 31 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
