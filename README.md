@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:25 10 June 2024)
 -   📺 Watched episode 1108 of [ONE PIECE](https://anilist.co/anime/21) (18:05 10 June 2024)
 -   📺 Watched episode 9 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:42 06 June 2024)
 -   📺 Watched episode 22 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:29 06 June 2024)
 -   📺 Watched episode 9 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:15 06 June 2024)
--   📺 Watched episode 8 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:11 06 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
