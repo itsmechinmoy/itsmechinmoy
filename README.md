@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (08:20 11 June 2024)
 -   📺 Watched episode 11 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (08:11 11 June 2024)
 -   📺 Watched episode 10 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (07:59 11 June 2024)
 -   📖 Plans to read [My Reason To Die](https://anilist.co/manga/144006) (07:47 11 June 2024)
 -   📺 Watched episode 10 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (19:06 10 June 2024)
--   📺 Watched episode 9 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:38 10 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
