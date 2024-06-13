@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 9 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (13:44 13 June 2024)
+-   📺 Watched episode 2 - 11 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:06 13 June 2024)
 -   📺 Watched episode 2 - 5 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (13:59 11 June 2024)
 -   📺 Watched episode 23 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (08:36 11 June 2024)
 -   📺 Watched episode 10 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (08:20 11 June 2024)
