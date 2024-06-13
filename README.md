@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Blue Exorcist: Runaway Kuro](https://anilist.co/anime/11266) (05:41 13 June 2024)
+-   📺 Watched episode 3 of [Maid-Sama!](https://anilist.co/anime/7054) (05:40 13 June 2024)
 -   📺 Watched episode 2 - 7 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (17:48 12 June 2024)
 -   📺 Watched episode 2 - 5 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (13:59 11 June 2024)
 -   📺 Watched episode 23 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (08:36 11 June 2024)
--   📺 Watched episode 10 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (08:20 11 June 2024)
--   📺 Watched episode 11 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (08:11 11 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
