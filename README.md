@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 3 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (13:24 14 June 2024)
+-   📺 Watched episode 2 - 4 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (13:51 14 June 2024)
 -   📺 Watched episode 2 - 9 of [Kaiju No.8](https://anilist.co/anime/153288) (07:58 14 June 2024)
 -   📺 Watched episode 2 - 11 of [WIND BREAKER](https://anilist.co/anime/163270) (05:39 14 June 2024)
 -   📺 Watched episode 2 - 11 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:06 13 June 2024)
