@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Kaiju No.8](https://anilist.co/anime/153288) (06:12 14 June 2024)
+-   📺 Watched episode 2 - 4 of [Kaiju No.8](https://anilist.co/anime/153288) (06:34 14 June 2024)
 -   📺 Watched episode 2 - 11 of [WIND BREAKER](https://anilist.co/anime/163270) (05:39 14 June 2024)
 -   📺 Watched episode 2 - 11 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:06 13 June 2024)
 -   📺 Watched episode 2 - 5 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (13:59 11 June 2024)
