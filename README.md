@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (13:14 14 June 2024)
 -   📺 Watched episode 2 - 9 of [Kaiju No.8](https://anilist.co/anime/153288) (07:58 14 June 2024)
 -   📺 Watched episode 2 - 11 of [WIND BREAKER](https://anilist.co/anime/163270) (05:39 14 June 2024)
 -   📺 Watched episode 2 - 11 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:06 13 June 2024)
 -   📺 Watched episode 2 - 5 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (13:59 11 June 2024)
--   📺 Watched episode 23 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (08:36 11 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
