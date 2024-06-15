@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:02 15 June 2024)
 -   📺 Watched episode 11 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (17:43 15 June 2024)
 -   📺 Watched episode 10 of [Kaiju No.8](https://anilist.co/anime/153288) (17:28 15 June 2024)
 -   📺 Watched episode 11 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (17:16 15 June 2024)
 -   📺 Watched episode 2 - 10 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (16:21 14 June 2024)
--   📺 Watched episode 2 - 9 of [Kaiju No.8](https://anilist.co/anime/153288) (07:58 14 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
