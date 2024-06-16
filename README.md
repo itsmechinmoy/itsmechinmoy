@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:58 16 June 2024)
 -   📺 Watched episode 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (17:41 16 June 2024)
 -   📺 Watched episode 6 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (17:22 16 June 2024)
 -   📺 Watched episode 11 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:02 15 June 2024)
 -   📺 Watched episode 11 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (17:43 15 June 2024)
--   📺 Watched episode 10 of [Kaiju No.8](https://anilist.co/anime/153288) (17:28 15 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
