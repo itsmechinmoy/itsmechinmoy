@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:30 17 June 2024)
 -   📺 Completed [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:11 17 June 2024)
 -   📺 Watched episode 12 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (18:11 17 June 2024)
 -   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:58 16 June 2024)
 -   📺 Watched episode 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (17:41 16 June 2024)
--   📺 Watched episode 6 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (17:22 16 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
