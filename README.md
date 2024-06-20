@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 4 of [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (08:09 20 June 2024)
+-   📺 Watched episode 2 - 9 of [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (08:30 20 June 2024)
 -   📺 Watched episode 12 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (17:59 18 June 2024)
 -   📺 Watched episode 24 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:46 17 June 2024)
 -   📺 Watched episode 11 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:30 17 June 2024)
