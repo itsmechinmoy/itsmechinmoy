@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 14 of [Maid-Sama!](https://anilist.co/anime/7054) (18:01 22 June 2024)
 -   📺 Watched episode 11 of [Kaiju No.8](https://anilist.co/anime/153288) (15:13 22 June 2024)
 -   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:05 21 June 2024)
 -   📺 Watched episode 12 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:46 21 June 2024)
 -   📺 Watched episode 12 of [WIND BREAKER](https://anilist.co/anime/163270) (18:27 20 June 2024)
--   📺 Watched episode 2 - 11 of [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (08:38 20 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
