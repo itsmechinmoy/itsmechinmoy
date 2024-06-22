@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (18:31 22 June 2024)
+-   📺 Watched episode 2 - 4 of [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (18:46 22 June 2024)
 -   📺 Watched episode 14 of [Maid-Sama!](https://anilist.co/anime/7054) (18:01 22 June 2024)
 -   📺 Watched episode 11 of [Kaiju No.8](https://anilist.co/anime/153288) (15:13 22 June 2024)
 -   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:05 21 June 2024)
