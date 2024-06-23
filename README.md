@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (15:03 23 June 2024)
 -   📺 Plans to watch [March comes in like a lion Season 2](https://anilist.co/anime/98478) (14:19 23 June 2024)
 -   📺 Plans to watch [Demon Lord 2099](https://anilist.co/anime/163135) (14:17 23 June 2024)
 -   📺 Watched episode 1109 of [ONE PIECE](https://anilist.co/anime/21) (10:48 23 June 2024)
 -   📖 Completed [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (08:43 23 June 2024)
--   📺 Watched episode 2 - 4 of [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (18:46 22 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
