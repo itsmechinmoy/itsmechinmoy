@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1109 of [ONE PIECE](https://anilist.co/anime/21) (10:48 23 June 2024)
 -   📖 Completed [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (08:43 23 June 2024)
 -   📺 Watched episode 2 - 4 of [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (18:46 22 June 2024)
 -   📺 Watched episode 14 of [Maid-Sama!](https://anilist.co/anime/7054) (18:01 22 June 2024)
 -   📺 Watched episode 11 of [Kaiju No.8](https://anilist.co/anime/153288) (15:13 22 June 2024)
--   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:05 21 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
