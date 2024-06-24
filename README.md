@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 5 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (08:14 24 June 2024)
+-   📺 Watched episode 2 - 7 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (08:27 24 June 2024)
 -   📺 Watched episode 11 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:50 23 June 2024)
 -   📺 Watched episode 7 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (18:32 23 June 2024)
 -   📺 Completed [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://anilist.co/anime/164702) (18:14 23 June 2024)
