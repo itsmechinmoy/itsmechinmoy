@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Love After World Domination](https://anilist.co/anime/132010) (18:52 24 June 2024)
+-   📺 Completed [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:43 24 June 2024)
 -   📺 Completed [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:26 24 June 2024)
 -   📺 Watched episode 12 of [Chillin' in Another World with Level 2 Super Cheat Powers](https://anilist.co/anime/170130) (18:26 24 June 2024)
 -   📺 Watched episode 2 - 7 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (08:27 24 June 2024)
--   📺 Watched episode 11 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:50 23 June 2024)
--   📺 Watched episode 7 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (18:32 23 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
