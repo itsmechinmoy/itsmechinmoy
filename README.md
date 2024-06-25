@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 11 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (18:17 25 June 2024)
+-   📺 Completed [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (18:36 25 June 2024)
+-   📺 Watched episode 2 - 12 of [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (18:36 25 June 2024)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (19:17 24 June 2024)
 -   📺 Completed [Love After World Domination](https://anilist.co/anime/132010) (19:10 24 June 2024)
 -   📺 Watched episode 9 - 12 of [Love After World Domination](https://anilist.co/anime/132010) (19:09 24 June 2024)
--   📺 Completed [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (18:43 24 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
