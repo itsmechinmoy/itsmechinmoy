@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (09:27 25 June 2024)
+-   📖 Read chapter 49 - 52 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (09:39 25 June 2024)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (19:17 24 June 2024)
 -   📺 Completed [Love After World Domination](https://anilist.co/anime/132010) (19:10 24 June 2024)
 -   📺 Watched episode 9 - 12 of [Love After World Domination](https://anilist.co/anime/132010) (19:09 24 June 2024)
