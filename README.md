@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 6 of [Dr. STONE New World](https://anilist.co/anime/131518) (17:51 26 June 2024)
+-   📺 Watched episode 4 - 8 of [Dr. STONE New World](https://anilist.co/anime/131518) (18:10 26 June 2024)
 -   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
 -   📺 Watched episode 7 - 12 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
 -   📺 Completed [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (12:19 26 June 2024)
