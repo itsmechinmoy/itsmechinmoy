@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 - 9 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (12:45 26 June 2024)
+-   📺 Watched episode 7 - 11 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:04 26 June 2024)
 -   📺 Completed [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (12:19 26 June 2024)
 -   📺 Watched episode 2 - 12 of [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (12:18 26 June 2024)
 -   📺 Completed [Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!](https://anilist.co/anime/126791) (18:36 25 June 2024)
