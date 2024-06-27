@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 of [Fate/Prototype: Sougin no Fragments](https://anilist.co/manga/167469) (05:24 27 June 2024)
--   📖 Read chapter 6 of [Boruto: Two Blue Vortex](https://anilist.co/manga/168468) (05:23 27 June 2024)
--   📖 Read chapter 70 of [Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai](https://anilist.co/manga/147108) (05:23 27 June 2024)
--   📖 Read chapter 263 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (05:22 27 June 2024)
--   📖 Read chapter 111 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/manga/123093) (05:21 27 June 2024)
+-   📺 Completed [Dr. STONE New World](https://anilist.co/anime/131518) (18:36 26 June 2024)
+-   📺 Watched episode 4 - 10 of [Dr. STONE New World](https://anilist.co/anime/131518) (18:26 26 June 2024)
+-   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
+-   📺 Watched episode 7 - 12 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
+-   📺 Completed [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (12:19 26 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
