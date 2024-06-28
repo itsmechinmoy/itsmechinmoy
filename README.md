@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Dr. STONE New World](https://anilist.co/anime/131518) (06:39 28 June 2024)
 -   📺 Watched episode 1 - 3 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (06:21 28 June 2024)
 -   📺 Completed [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (04:38 28 June 2024)
 -   📺 Watched episode 1 - 3 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (07:51 27 June 2024)
 -   📺 Completed [Dr. STONE New World](https://anilist.co/anime/131518) (18:36 26 June 2024)
--   📺 Watched episode 4 - 10 of [Dr. STONE New World](https://anilist.co/anime/131518) (18:26 26 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
