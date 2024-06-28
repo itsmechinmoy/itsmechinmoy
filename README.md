@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [WIND BREAKER](https://anilist.co/anime/163270) (07:03 28 June 2024)
+-   📺 Watched episode 12 - 13 of [WIND BREAKER](https://anilist.co/anime/163270) (07:03 28 June 2024)
 -   📺 Completed [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (06:51 28 June 2024)
 -   📺 Watched episode 11 - 12 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (06:50 28 June 2024)
 -   📺 Completed [Dr. STONE New World](https://anilist.co/anime/131518) (06:39 28 June 2024)
--   📺 Watched episode 1 - 3 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (06:21 28 June 2024)
--   📺 Completed [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (04:38 28 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
