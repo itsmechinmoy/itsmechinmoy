@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (18:35 28 June 2024)
+-   📺 Watched episode 12 - 13 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:28 28 June 2024)
 -   📺 Completed [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:08 28 June 2024)
 -   📺 Watched episode 12 - 13 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:07 28 June 2024)
 -   📺 Completed [WIND BREAKER](https://anilist.co/anime/163270) (07:03 28 June 2024)
--   📺 Watched episode 12 - 13 of [WIND BREAKER](https://anilist.co/anime/163270) (07:03 28 June 2024)
--   📺 Completed [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (06:51 28 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
