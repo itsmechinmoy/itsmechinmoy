@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (18:47 28 June 2024)
+-   📺 Watched episode 1 - 9 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (19:05 28 June 2024)
 -   📺 Watched episode 12 - 13 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:28 28 June 2024)
 -   📺 Completed [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:08 28 June 2024)
 -   📺 Watched episode 12 - 13 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:07 28 June 2024)
