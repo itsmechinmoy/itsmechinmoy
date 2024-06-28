@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Grandpa and Grandma Turn Young Again](https://anilist.co/anime/168138) (04:38 28 June 2024)
 -   📺 Watched episode 1 - 3 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (07:51 27 June 2024)
 -   📺 Completed [Dr. STONE New World](https://anilist.co/anime/131518) (18:36 26 June 2024)
 -   📺 Watched episode 4 - 10 of [Dr. STONE New World](https://anilist.co/anime/131518) (18:26 26 June 2024)
 -   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
--   📺 Watched episode 7 - 12 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:18 26 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
