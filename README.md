@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Mahouka Koukou no Rettousei: Yotsuba Keishou-hen](https://anilist.co/anime/178707) (20:06 28 June 2024)
 -   📺 Completed [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (19:18 28 June 2024)
 -   📺 Watched episode 1 - 11 of [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (19:18 28 June 2024)
 -   📺 Watched episode 12 - 13 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:28 28 June 2024)
 -   📺 Completed [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:08 28 June 2024)
--   📺 Watched episode 12 - 13 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (18:07 28 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
