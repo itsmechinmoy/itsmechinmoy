@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Infinity Castle](https://anilist.co/anime/178788) (19:48 30 June 2024)
 -   📺 Watched episode 1109 - 1110 of [ONE PIECE](https://anilist.co/anime/21) (19:29 30 June 2024)
 -   📺 Completed [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (19:17 30 June 2024)
 -   📺 Watched episode 7 - 8 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (19:17 30 June 2024)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:45 30 June 2024)
--   📺 Watched episode 11 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:43 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
