@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 38 of [The Maid I Recently Hired is Mysterious](https://anilist.co/manga/114917) (05:37 30 June 2024)
 -   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (18:39 29 June 2024)
 -   📺 Watched episode 11 - 12 of [Kaiju No.8](https://anilist.co/anime/153288) (18:38 29 June 2024)
 -   📺 Plans to watch [MASHLE (Zoku-hen)](https://anilist.co/anime/177704) (20:07 28 June 2024)
 -   📺 Plans to watch [SPY×FAMILY Season 3](https://anilist.co/anime/177937) (20:07 28 June 2024)
--   📺 Plans to watch [WIND BREAKER Season 2](https://anilist.co/anime/178680) (20:07 28 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
