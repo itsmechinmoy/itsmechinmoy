@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kaiju No.8 (Sequel)](https://anilist.co/anime/178754) (08:13 30 June 2024)
 -   📺 Plans to watch [Moribito: Guardian of the Spirit](https://anilist.co/anime/1827) (07:32 30 June 2024)
 -   📺 Plans to watch [Living in a world without magic](https://anilist.co/anime/151743) (07:32 30 June 2024)
 -   📺 Plans to watch [The Deer King](https://anilist.co/anime/102891) (07:32 30 June 2024)
 -   📺 Plans to watch [Mirai](https://anilist.co/anime/100749) (07:32 30 June 2024)
--   📺 Plans to watch [BELLE](https://anilist.co/anime/127271) (07:32 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
