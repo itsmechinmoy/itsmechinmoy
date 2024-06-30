@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [ShindoL no Bunka Jinruigaku](https://anilist.co/manga/85405) (06:03 30 June 2024)
--   📖 Read chapter 1 of [not be, but be](https://anilist.co/manga/56133) (05:59 30 June 2024)
--   📖 Read chapter 38 of [The Maid I Recently Hired is Mysterious](https://anilist.co/manga/114917) (05:37 30 June 2024)
--   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (18:39 29 June 2024)
--   📺 Watched episode 11 - 12 of [Kaiju No.8](https://anilist.co/anime/153288) (18:38 29 June 2024)
+-   📺 Plans to watch [Moribito: Guardian of the Spirit](https://anilist.co/anime/1827) (07:32 30 June 2024)
+-   📺 Plans to watch [Living in a world without magic](https://anilist.co/anime/151743) (07:32 30 June 2024)
+-   📺 Plans to watch [The Deer King](https://anilist.co/anime/102891) (07:32 30 June 2024)
+-   📺 Plans to watch [Mirai](https://anilist.co/anime/100749) (07:32 30 June 2024)
+-   📺 Plans to watch [BELLE](https://anilist.co/anime/127271) (07:32 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
