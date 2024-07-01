@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Colors Within](https://anilist.co/anime/158166) (13:48 01 July 2024)
+-   📺 Plans to watch [Pseudo Harem](https://anilist.co/anime/163623) (13:47 01 July 2024)
+-   📺 Plans to watch [My Deer Friend Nokotan](https://anilist.co/anime/175977) (13:43 01 July 2024)
+-   📺 Watched episode 1 of [Days with My Stepsister](https://anilist.co/anime/152681) (13:40 01 July 2024)
 -   📺 Plans to watch [Days with My Stepsister](https://anilist.co/anime/152681) (13:27 01 July 2024)
--   📺 Watched episode 1 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (13:27 01 July 2024)
--   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Infinity Castle](https://anilist.co/anime/178788) (19:48 30 June 2024)
--   📺 Watched episode 1109 - 1110 of [ONE PIECE](https://anilist.co/anime/21) (19:29 30 June 2024)
--   📺 Completed [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (19:17 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
