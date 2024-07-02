@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (18:32 01 July 2024)
+-   📺 Watched episode 2 - 4 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (08:51 02 July 2024)
 -   📖 Read chapter 38 - 58 of [The Maid I Recently Hired is Mysterious](https://anilist.co/manga/114917) (16:08 01 July 2024)
 -   📺 Plans to watch [The Colors Within](https://anilist.co/anime/158166) (13:48 01 July 2024)
 -   📺 Plans to watch [Pseudo Harem](https://anilist.co/anime/163623) (13:47 01 July 2024)
