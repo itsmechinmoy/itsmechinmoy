@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:54 03 July 2024)
 -   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (15:27 03 July 2024)
 -   📺 Watched episode 1 - 2 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (15:05 03 July 2024)
 -   📖 Read chapter 165 - 181 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (08:22 03 July 2024)
 -   📖 Read chapter 57 - 60 of [Rurouni Kenshin: Meiji Kenkaku Romantan - Hokkaido-hen](https://anilist.co/manga/101938) (08:21 03 July 2024)
--   📖 Read chapter 30 - 31 of [My Happy Marriage](https://anilist.co/manga/106531) (08:21 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
