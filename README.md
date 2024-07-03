@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 8 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (18:20 02 July 2024)
--   📖 Read chapter 38 - 58 of [The Maid I Recently Hired is Mysterious](https://anilist.co/manga/114917) (16:08 01 July 2024)
--   📺 Plans to watch [The Colors Within](https://anilist.co/anime/158166) (13:48 01 July 2024)
--   📺 Plans to watch [Pseudo Harem](https://anilist.co/anime/163623) (13:47 01 July 2024)
--   📺 Plans to watch [My Deer Friend Nokotan](https://anilist.co/anime/175977) (13:43 01 July 2024)
+-   📖 Read chapter 139 - 144 of [[Oshi no Ko]](https://anilist.co/manga/117195) (08:18 03 July 2024)
+-   📖 Read chapter 65 - 86 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103851) (08:17 03 July 2024)
+-   📖 Read chapter 72 - 78 of [Beast Tamer](https://anilist.co/manga/108115) (08:15 03 July 2024)
+-   📖 Read chapter 63 - 64 of [The Faraway Paladin](https://anilist.co/manga/101521) (08:12 03 July 2024)
+-   📖 Read chapter 24 - 66 of [My Roommate is a Cat](https://anilist.co/manga/97363) (08:09 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
