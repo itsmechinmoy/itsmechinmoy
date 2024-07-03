@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 139 - 144 of [[Oshi no Ko]](https://anilist.co/manga/117195) (08:18 03 July 2024)
--   📖 Read chapter 65 - 86 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103851) (08:17 03 July 2024)
--   📖 Read chapter 72 - 78 of [Beast Tamer](https://anilist.co/manga/108115) (08:15 03 July 2024)
--   📖 Read chapter 63 - 64 of [The Faraway Paladin](https://anilist.co/manga/101521) (08:12 03 July 2024)
--   📖 Read chapter 24 - 66 of [My Roommate is a Cat](https://anilist.co/manga/97363) (08:09 03 July 2024)
+-   📖 Read chapter 165 - 181 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (08:22 03 July 2024)
+-   📖 Read chapter 57 - 60 of [Rurouni Kenshin: Meiji Kenkaku Romantan - Hokkaido-hen](https://anilist.co/manga/101938) (08:21 03 July 2024)
+-   📖 Read chapter 30 - 31 of [My Happy Marriage](https://anilist.co/manga/106531) (08:21 03 July 2024)
+-   📖 Read chapter 35 - 38 of [My Daughter Left the Nest and Returned an S-Rank Adventurer](https://anilist.co/manga/102476) (08:21 03 July 2024)
+-   📖 Read chapter 96 - 101 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (08:21 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
