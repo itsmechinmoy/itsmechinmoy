@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (19:27 04 July 2024)
+-   📺 Watched episode 1 - 10 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (19:46 04 July 2024)
 -   📺 Completed [Devilman Crybaby](https://anilist.co/anime/98460) (17:56 04 July 2024)
 -   📺 Watched episode 1 - 6 of [Devilman Crybaby](https://anilist.co/anime/98460) (09:57 04 July 2024)
 -   📖 Plans to read [Gokurakugai](https://anilist.co/manga/150378) (19:29 03 July 2024)
