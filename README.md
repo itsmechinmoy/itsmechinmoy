@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (18:24 04 July 2024)
 -   📺 Completed [Devilman Crybaby](https://anilist.co/anime/98460) (17:56 04 July 2024)
 -   📺 Watched episode 1 - 6 of [Devilman Crybaby](https://anilist.co/anime/98460) (09:57 04 July 2024)
 -   📖 Plans to read [Gokurakugai](https://anilist.co/manga/150378) (19:29 03 July 2024)
 -   📺 Watched episode 1 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (18:10 03 July 2024)
--   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (15:27 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
