@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (18:03 05 July 2024)
 -   📺 Watched episode 1 - 4 of [A Girl & Her Guard Dog](https://anilist.co/anime/155527) (13:20 05 July 2024)
 -   📖 Plans to read [S-Rank Party Kara Kaikosareta [Jugushi]: "Noroi no Item" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!](https://anilist.co/manga/158376) (06:01 05 July 2024)
 -   📺 Completed [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (20:00 04 July 2024)
 -   📺 Watched episode 1 - 12 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (20:00 04 July 2024)
--   📺 Completed [Devilman Crybaby](https://anilist.co/anime/98460) (17:56 04 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
