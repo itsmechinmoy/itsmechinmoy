@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [THE NEW GATE](https://anilist.co/anime/170890) (20:30 05 July 2024)
+-   📺 Watched episode 1 - 12 of [THE NEW GATE](https://anilist.co/anime/170890) (20:42 05 July 2024)
 -   📺 Watched episode 12 - 14 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:27 05 July 2024)
 -   📺 Watched episode 1 - 4 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (18:03 05 July 2024)
 -   📺 Watched episode 1 - 4 of [A Girl & Her Guard Dog](https://anilist.co/anime/155527) (13:20 05 July 2024)
