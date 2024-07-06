@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (07:33 06 July 2024)
 -   📺 Completed [THE NEW GATE](https://anilist.co/anime/170890) (20:47 05 July 2024)
 -   📺 Watched episode 1 - 12 of [THE NEW GATE](https://anilist.co/anime/170890) (20:42 05 July 2024)
 -   📺 Watched episode 12 - 14 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:27 05 July 2024)
 -   📺 Watched episode 1 - 4 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (18:03 05 July 2024)
--   📺 Watched episode 1 - 4 of [A Girl & Her Guard Dog](https://anilist.co/anime/155527) (13:20 05 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
