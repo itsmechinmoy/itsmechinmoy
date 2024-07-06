@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (18:09 06 July 2024)
 -   📺 Watched episode 1 of [Pseudo Harem](https://anilist.co/anime/163623) (07:48 06 July 2024)
 -   📺 Watched episode 1 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (07:33 06 July 2024)
 -   📺 Completed [THE NEW GATE](https://anilist.co/anime/170890) (20:47 05 July 2024)
 -   📺 Watched episode 1 - 12 of [THE NEW GATE](https://anilist.co/anime/170890) (20:42 05 July 2024)
--   📺 Watched episode 12 - 14 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:27 05 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
