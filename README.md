@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (18:44 07 July 2024)
 -   📺 Watched episode 1 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:32 07 July 2024)
 -   📺 Watched episode 1 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (07:41 07 July 2024)
 -   📺 Watched episode 1109 - 1111 of [ONE PIECE](https://anilist.co/anime/21) (07:38 07 July 2024)
 -   📺 Watched episode 1 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (18:34 06 July 2024)
--   📺 Watched episode 1 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (18:09 06 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
