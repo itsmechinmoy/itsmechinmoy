@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (15:06 09 July 2024)
+-   📺 Watched episode 1 - 2 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (15:06 09 July 2024)
 -   📺 Watched episode 1 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (14:45 09 July 2024)
 -   📺 Watched episode 2 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (18:15 08 July 2024)
--   📺 Watched episode 1 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (18:44 07 July 2024)
 -   📺 Watched episode 1 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:32 07 July 2024)
--   📺 Watched episode 1 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (07:41 07 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
