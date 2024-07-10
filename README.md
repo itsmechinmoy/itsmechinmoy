@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Love Is Indivisible by Twins](https://anilist.co/anime/167144) (19:13 10 July 2024)
 -   📺 Watched episode 1 - 2 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (17:57 10 July 2024)
 -   📺 Watched episode 1 - 2 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (17:41 10 July 2024)
 -   📺 Watched episode 1 - 3 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:21 10 July 2024)
 -   📺 Watched episode 1 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (15:06 09 July 2024)
--   📺 Watched episode 1 - 2 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (15:06 09 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
