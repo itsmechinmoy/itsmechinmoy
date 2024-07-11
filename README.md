@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Pseudo Harem](https://anilist.co/anime/163623) (19:13 11 July 2024)
 -   📺 Watched episode 1 - 2 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (18:49 11 July 2024)
 -   📺 Watched episode 1 - 3 of [Days with My Stepsister](https://anilist.co/anime/152681) (18:29 11 July 2024)
 -   📺 Watched episode 1 - 5 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (18:08 11 July 2024)
 -   📺 Plans to watch [Love Is Indivisible by Twins](https://anilist.co/anime/167144) (19:13 10 July 2024)
--   📺 Watched episode 1 - 2 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (17:57 10 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
