@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (10:36 12 July 2024)
+-   📺 Plans to watch [I Parry Everything](https://anilist.co/anime/170695) (11:01 12 July 2024)
+-   📺 Watched episode 1 - 2 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (11:00 12 July 2024)
 -   📺 Plans to watch [Loner Life in Another World](https://anilist.co/anime/173693) (10:33 12 July 2024)
 -   📺 Watched episode 1 - 2 of [Pseudo Harem](https://anilist.co/anime/163623) (19:13 11 July 2024)
 -   📺 Watched episode 1 - 2 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (18:49 11 July 2024)
--   📺 Watched episode 1 - 3 of [Days with My Stepsister](https://anilist.co/anime/152681) (18:29 11 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
