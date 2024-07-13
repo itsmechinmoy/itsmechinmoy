@@ -17,9 +17,9 @@
 
 -   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (10:24 13 July 2024)
 -   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (08:10 13 July 2024)
--   📺 Plans to watch [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (17:22 12 July 2024)
 -   📺 Watched episode 1 - 2 of [I Parry Everything](https://anilist.co/anime/170695) (12:47 12 July 2024)
--   📺 Plans to watch [I Parry Everything](https://anilist.co/anime/170695) (11:01 12 July 2024)
+-   📺 Watched episode 1 - 2 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (11:00 12 July 2024)
+-   📺 Watched episode 1 - 2 of [Pseudo Harem](https://anilist.co/anime/163623) (19:13 11 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
