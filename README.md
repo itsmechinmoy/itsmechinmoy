@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [ATRI -My Dear Moments-](https://anilist.co/anime/154963) (18:38 13 July 2024)
+-   📖 Read chapter 1 - 30 of [Martial Peak](https://anilist.co/manga/104494) (18:37 13 July 2024)
 -   📺 Watched episode 1 - 2 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (18:14 13 July 2024)
--   📖 Read chapter 1 - 10 of [Martial Peak](https://anilist.co/manga/104494) (10:48 13 July 2024)
 -   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (10:24 13 July 2024)
 -   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (08:10 13 July 2024)
--   📺 Watched episode 1 - 2 of [I Parry Everything](https://anilist.co/anime/170695) (12:47 12 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
