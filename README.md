@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (18:17 14 July 2024)
+-   📺 Watched episode 1 - 3 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (18:45 14 July 2024)
 -   📺 Watched episode 1 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (17:58 14 July 2024)
 -   📺 Watched episode 1 of [Makeine: Too Many Losing Heroines!](https://anilist.co/anime/171457) (17:45 14 July 2024)
 -   📖 Read chapter 1 - 100 of [Martial Peak](https://anilist.co/manga/104494) (17:41 14 July 2024)
