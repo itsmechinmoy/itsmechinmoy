@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1109 - 1112 of [ONE PIECE](https://anilist.co/anime/21) (10:06 14 July 2024)
+-   📺 Watched episode 1 - 2 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (09:53 14 July 2024)
 -   📖 Read chapter 1 - 60 of [Martial Peak](https://anilist.co/manga/104494) (04:52 14 July 2024)
 -   📺 Watched episode 1 of [ATRI -My Dear Moments-](https://anilist.co/anime/154963) (18:38 13 July 2024)
 -   📺 Watched episode 1 - 2 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (18:14 13 July 2024)
--   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (10:24 13 July 2024)
--   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (08:10 13 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
