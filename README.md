@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Tower of God Season 2](https://anilist.co/anime/153406) (15:54 14 July 2024)
 -   📺 Watched episode 1 - 2 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (10:25 14 July 2024)
 -   📺 Watched episode 1109 - 1112 of [ONE PIECE](https://anilist.co/anime/21) (10:06 14 July 2024)
 -   📺 Watched episode 1 - 2 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (09:53 14 July 2024)
 -   📖 Read chapter 1 - 60 of [Martial Peak](https://anilist.co/manga/104494) (04:52 14 July 2024)
--   📺 Watched episode 1 of [ATRI -My Dear Moments-](https://anilist.co/anime/154963) (18:38 13 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
