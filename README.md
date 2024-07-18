@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (18:30 18 July 2024)
 -   📺 Watched episode 2 - 3 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (18:52 15 July 2024)
 -   📺 Watched episode 1 - 3 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (15:18 15 July 2024)
 -   📺 Watched episode 1 - 3 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (18:45 14 July 2024)
 -   📺 Watched episode 1 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (17:58 14 July 2024)
--   📺 Watched episode 1 of [Makeine: Too Many Losing Heroines!](https://anilist.co/anime/171457) (17:45 14 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
