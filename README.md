@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (18:54 19 July 2024)
 -   📺 Watched episode 1 - 3 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (18:41 19 July 2024)
 -   📺 Watched episode 1 - 3 of [Pseudo Harem](https://anilist.co/anime/163623) (18:29 19 July 2024)
 -   📺 Watched episode 1 - 3 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (18:20 19 July 2024)
 -   📺 Watched episode 1 - 3 of [I Parry Everything](https://anilist.co/anime/170695) (18:05 19 July 2024)
--   📺 Watched episode 1 - 2 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (18:30 18 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
