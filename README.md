@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (18:21 20 July 2024)
 -   📺 Completed [Our Last Crusade or the Rise of a New World](https://anilist.co/anime/112667) (16:30 20 July 2024)
 -   📺 Watched episode 1 - 12 of [Our Last Crusade or the Rise of a New World](https://anilist.co/anime/112667) (16:30 20 July 2024)
 -   📺 Watched episode 1 - 1112 of [ONE PIECE](https://anilist.co/anime/21) (19:36 19 July 2024)
 -   📺 Watched episode 1 - 3 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (19:35 19 July 2024)
--   📺 Watched episode 1 - 15 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:35 19 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
