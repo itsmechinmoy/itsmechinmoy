@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (08:24 25 July 2024)
+-   📺 Watched episode 1 - 3 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (08:12 25 July 2024)
 -   📺 Watched episode 1 - 3 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (12:38 21 July 2024)
--   📺 Watched episode 1 - 2 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (19:09 20 July 2024)
 -   📺 Watched episode 1 - 3 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (18:38 20 July 2024)
 -   📺 Watched episode 1 - 4 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (18:27 20 July 2024)
--   📺 Watched episode 1 - 2 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (18:21 20 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
