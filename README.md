@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (08:46 27 July 2024)
 -   📺 Watched episode 1 - 16 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:14 27 July 2024)
 -   📺 Watched episode 1 - 3 of [Tower of God Season 2](https://anilist.co/anime/153406) (08:55 25 July 2024)
 -   📺 Watched episode 1 - 4 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (08:38 25 July 2024)
 -   📺 Watched episode 1 - 4 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (08:24 25 July 2024)
--   📺 Watched episode 1 - 3 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (08:12 25 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
