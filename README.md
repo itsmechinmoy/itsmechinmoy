@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (09:43 27 July 2024)
 -   📺 Watched episode 1 - 4 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (09:30 27 July 2024)
 -   📺 Watched episode 1 - 4 of [Pseudo Harem](https://anilist.co/anime/163623) (09:22 27 July 2024)
 -   📺 Watched episode 1 - 4 of [I Parry Everything](https://anilist.co/anime/170695) (09:14 27 July 2024)
 -   📺 Watched episode 1 - 4 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (08:46 27 July 2024)
--   📺 Watched episode 1 - 16 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:14 27 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
