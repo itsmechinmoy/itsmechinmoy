@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (18:48 28 July 2024)
 -   📺 Watched episode 1 - 4 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:36 28 July 2024)
 -   📺 Watched episode 1 - 1113 of [ONE PIECE](https://anilist.co/anime/21) (17:05 28 July 2024)
 -   📺 Watched episode 1 - 5 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (12:11 27 July 2024)
 -   📺 Watched episode 1 - 4 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (09:43 27 July 2024)
--   📺 Watched episode 1 - 4 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (09:30 27 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
