@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (06:32 06 August 2024)
 -   📺 Watched episode 1 - 4 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (16:44 05 August 2024)
 -   📺 Watched episode 1 - 5 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (16:30 05 August 2024)
 -   📺 Watched episode 1 - 5 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (16:23 05 August 2024)
 -   📺 Watched episode 1 - 1114 of [ONE PIECE](https://anilist.co/anime/21) (16:09 05 August 2024)
--   📺 Watched episode 1 - 5 of [Tower of God Season 2](https://anilist.co/anime/153406) (15:58 05 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
