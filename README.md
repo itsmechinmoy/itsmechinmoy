@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:38 07 August 2024)
 -   📺 Watched episode 1 - 6 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:14 07 August 2024)
 -   📺 Watched episode 1 - 7 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (09:01 06 August 2024)
 -   📺 Watched episode 1 - 5 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (06:44 06 August 2024)
 -   📺 Watched episode 1 - 4 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (16:44 05 August 2024)
--   📺 Watched episode 1 - 5 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (16:30 05 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
