@@ -15,10 +15,10 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (16:17 08 August 2024)
 -   📺 Watched episode 1 - 7 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:51 07 August 2024)
 -   📺 Watched episode 1 - 6 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:38 07 August 2024)
 -   📺 Watched episode 1 - 6 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:14 07 August 2024)
--   📺 Watched episode 1 - 7 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (09:01 06 August 2024)
 -   📺 Watched episode 1 - 5 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (06:44 06 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
