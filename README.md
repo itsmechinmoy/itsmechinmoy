@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 - 13 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (16:19 13 August 2024)
+-   📺 Watched episode 1 - 6 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (16:12 13 August 2024)
 -   📺 Watched episode 1 - 6 of [Tower of God Season 2](https://anilist.co/anime/153406) (16:42 12 August 2024)
 -   📺 Watched episode 1 - 5 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (18:59 11 August 2024)
 -   📺 Watched episode 1 - 6 of [I Parry Everything](https://anilist.co/anime/170695) (08:59 11 August 2024)
--   📺 Watched episode 1 - 6 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (08:37 11 August 2024)
--   📺 Watched episode 1 - 5 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (08:08 11 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
