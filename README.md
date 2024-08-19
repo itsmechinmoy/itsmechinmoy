@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (13:27 19 August 2024)
 -   📺 Watched episode 1 - 7 of [Tower of God Season 2](https://anilist.co/anime/153406) (13:15 19 August 2024)
 -   📺 Watched episode 1 - 7 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (12:51 19 August 2024)
 -   📺 Watched episode 1 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (04:20 15 August 2024)
 -   📺 Watched episode 12 - 13 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (16:19 13 August 2024)
--   📺 Watched episode 1 - 6 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (16:12 13 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
