@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (10:53 23 August 2024)
 -   📺 Watched episode 1 - 7 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (09:25 23 August 2024)
 -   📺 Watched episode 1 - 8 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (16:31 22 August 2024)
 -   📺 Watched episode 1 - 7 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (15:53 22 August 2024)
 -   📺 Watched episode 1 - 7 of [I Parry Everything](https://anilist.co/anime/170695) (15:37 22 August 2024)
--   📺 Watched episode 1 - 9 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:48 21 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
