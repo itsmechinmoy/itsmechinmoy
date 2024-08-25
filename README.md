@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [The Witch and the Beast](https://anilist.co/anime/153818) (16:41 25 August 2024)
--   📺 Watched episode 1 of [The Witch and the Beast](https://anilist.co/anime/153818) (16:41 25 August 2024)
--   📺 Completed [Saving 80,000 Gold in Another World for My Retirement](https://anilist.co/anime/152765) (16:40 25 August 2024)
--   📺 Watched episode 1 of [Saving 80,000 Gold in Another World for My Retirement](https://anilist.co/anime/152765) (16:40 25 August 2024)
--   📺 Completed [Rail Wars!](https://anilist.co/anime/20583) (16:40 25 August 2024)
+-   📺 Completed [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (16:51 25 August 2024)
+-   📺 Completed [Shomin Sample](https://anilist.co/anime/20771) (16:51 25 August 2024)
+-   📺 Watched episode 1 of [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (16:51 25 August 2024)
+-   📺 Watched episode 1 of [Shomin Sample](https://anilist.co/anime/20771) (16:51 25 August 2024)
+-   📺 Completed [Senryu Girl](https://anilist.co/anime/106051) (16:51 25 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
