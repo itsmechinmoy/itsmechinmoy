@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [Rail Wars!](https://anilist.co/anime/20583) (16:29 25 August 2024)
--   📺 Completed [Kids on the Slope](https://anilist.co/anime/12531) (16:29 25 August 2024)
--   📺 Watched episode 1 - 11 of [Kids on the Slope](https://anilist.co/anime/12531) (16:29 25 August 2024)
--   📺 Completed [SHY](https://anilist.co/anime/155389) (16:28 25 August 2024)
--   📺 Watched episode 1 - 11 of [SHY](https://anilist.co/anime/155389) (16:28 25 August 2024)
+-   📺 Completed [The Witch and the Beast](https://anilist.co/anime/153818) (16:41 25 August 2024)
+-   📺 Watched episode 1 of [The Witch and the Beast](https://anilist.co/anime/153818) (16:41 25 August 2024)
+-   📺 Completed [Saving 80,000 Gold in Another World for My Retirement](https://anilist.co/anime/152765) (16:40 25 August 2024)
+-   📺 Watched episode 1 of [Saving 80,000 Gold in Another World for My Retirement](https://anilist.co/anime/152765) (16:40 25 August 2024)
+-   📺 Completed [Rail Wars!](https://anilist.co/anime/20583) (16:40 25 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
