@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (09:55 24 August 2024)
--   📺 Watched episode 1 - 8 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (09:54 24 August 2024)
--   📺 Watched episode 1 - 8 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (16:31 22 August 2024)
--   📺 Watched episode 1 - 7 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (15:53 22 August 2024)
--   📺 Watched episode 1 - 7 of [I Parry Everything](https://anilist.co/anime/170695) (15:37 22 August 2024)
+-   📺 Watched episode 1 - 10 of [Rail Wars!](https://anilist.co/anime/20583) (16:29 25 August 2024)
+-   📺 Completed [Kids on the Slope](https://anilist.co/anime/12531) (16:29 25 August 2024)
+-   📺 Watched episode 1 - 11 of [Kids on the Slope](https://anilist.co/anime/12531) (16:29 25 August 2024)
+-   📺 Completed [SHY](https://anilist.co/anime/155389) (16:28 25 August 2024)
+-   📺 Watched episode 1 - 11 of [SHY](https://anilist.co/anime/155389) (16:28 25 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
