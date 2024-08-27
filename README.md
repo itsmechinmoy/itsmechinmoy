@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (08:43 27 August 2024)
 -   📺 Watched episode 1 - 8 of [Tower of God Season 2](https://anilist.co/anime/153406) (08:30 27 August 2024)
 -   📺 Completed [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (16:51 25 August 2024)
 -   📺 Completed [Shomin Sample](https://anilist.co/anime/20771) (16:51 25 August 2024)
 -   📺 Watched episode 1 of [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (16:51 25 August 2024)
--   📺 Watched episode 1 of [Shomin Sample](https://anilist.co/anime/20771) (16:51 25 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
