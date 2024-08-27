@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 18 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:49 27 August 2024)
+-   📺 Watched episode 1 - 19 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (17:02 27 August 2024)
 -   📺 Watched episode 1 - 8 of [I Parry Everything](https://anilist.co/anime/170695) (16:30 27 August 2024)
 -   📺 Watched episode 1 - 9 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (16:19 27 August 2024)
 -   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (13:07 27 August 2024)
