@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:58 28 August 2024)
 -   📺 Watched episode 1 - 10 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:36 28 August 2024)
 -   📺 Watched episode 1 - 7 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (15:32 28 August 2024)
 -   📺 Watched episode 1 - 19 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (17:02 27 August 2024)
 -   📺 Watched episode 1 - 8 of [I Parry Everything](https://anilist.co/anime/170695) (16:30 27 August 2024)
--   📺 Watched episode 1 - 9 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (16:19 27 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
