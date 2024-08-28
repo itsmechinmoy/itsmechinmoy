@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (14:31 28 August 2024)
 -   📺 Watched episode 1 - 19 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (17:02 27 August 2024)
 -   📺 Watched episode 1 - 8 of [I Parry Everything](https://anilist.co/anime/170695) (16:30 27 August 2024)
 -   📺 Watched episode 1 - 9 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (16:19 27 August 2024)
 -   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (13:07 27 August 2024)
--   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (13:06 27 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
