@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Delicious in Dungeon](https://anilist.co/anime/153518) (08:45 30 August 2024)
+-   📺 Watched episode 1 - 9 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (08:41 30 August 2024)
+-   📺 Watched episode 1 - 8 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (08:39 30 August 2024)
+-   📺 Watched episode 1 - 7 of [Dungeon People](https://anilist.co/anime/168345) (08:39 30 August 2024)
 -   📺 Watched episode 1 - 8 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (16:32 29 August 2024)
--   📺 Watched episode 1 - 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (17:13 28 August 2024)
--   📺 Watched episode 1 - 9 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:58 28 August 2024)
--   📺 Watched episode 1 - 10 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:36 28 August 2024)
--   📺 Watched episode 1 - 7 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (15:32 28 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
