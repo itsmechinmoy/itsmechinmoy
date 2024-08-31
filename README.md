@@ -15,10 +15,10 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Dungeon People](https://anilist.co/anime/168345) (09:13 31 August 2024)
+-   📺 Watched episode 1 - 9 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (09:13 31 August 2024)
 -   📺 Completed [Delicious in Dungeon](https://anilist.co/anime/153518) (08:45 30 August 2024)
 -   📺 Watched episode 1 - 9 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (08:41 30 August 2024)
--   📺 Watched episode 1 - 8 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (08:39 30 August 2024)
--   📺 Watched episode 1 - 7 of [Dungeon People](https://anilist.co/anime/168345) (08:39 30 August 2024)
 -   📺 Watched episode 1 - 8 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (16:32 29 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
