@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 20 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (13:44 01 September 2024)
 -   📺 Watched episode 1 - 8 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (13:16 01 September 2024)
 -   📺 Watched episode 1 - 8 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (13:03 01 September 2024)
 -   📺 Watched episode 1 - 1117 of [ONE PIECE](https://anilist.co/anime/21) (12:39 01 September 2024)
 -   📺 Watched episode 1 - 8 of [Dungeon People](https://anilist.co/anime/168345) (09:13 31 August 2024)
--   📺 Watched episode 1 - 9 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (09:13 31 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
