@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (13:53 03 September 2024)
+-   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (13:51 03 September 2024)
+-   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (13:50 03 September 2024)
+-   📺 Watched episode 1 of [Delicious in Dungeon](https://anilist.co/anime/153518) (13:47 03 September 2024)
 -   📺 Watched episode 1 - 8 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (12:25 03 September 2024)
--   📺 Watched episode 1 - 9 of [Tower of God Season 2](https://anilist.co/anime/153406) (11:55 03 September 2024)
--   📺 Watched episode 1 - 9 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (11:41 03 September 2024)
--   📺 Watched episode 1 - 10 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (17:01 02 September 2024)
--   📺 Watched episode 1 - 9 of [I Parry Everything](https://anilist.co/anime/170695) (16:49 02 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
