@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (12:25 03 September 2024)
 -   📺 Watched episode 1 - 9 of [Tower of God Season 2](https://anilist.co/anime/153406) (11:55 03 September 2024)
 -   📺 Watched episode 1 - 9 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (11:41 03 September 2024)
 -   📺 Watched episode 1 - 10 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (17:01 02 September 2024)
 -   📺 Watched episode 1 - 9 of [I Parry Everything](https://anilist.co/anime/170695) (16:49 02 September 2024)
--   📺 Watched episode 1 - 9 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:38 02 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
