@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (16:51 03 September 2024)
--   📺 Watched episode 1 - 2 of [Dungeon People](https://anilist.co/anime/168345) (13:51 03 September 2024)
--   📺 Watched episode 1 - 2 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (13:50 03 September 2024)
--   📺 Watched episode 1 of [Delicious in Dungeon](https://anilist.co/anime/153518) (13:47 03 September 2024)
--   📺 Watched episode 1 - 8 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (12:25 03 September 2024)
+-   📺 Completed [The Silver Guardian](https://anilist.co/anime/21662) (17:00 03 September 2024)
+-   📺 Completed [After the Rain](https://anilist.co/anime/98385) (16:58 03 September 2024)
+-   📺 Completed [Beyond the Boundary](https://anilist.co/anime/18153) (16:58 03 September 2024)
+-   📺 Completed [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (16:58 03 September 2024)
+-   📺 Completed [Shomin Sample](https://anilist.co/anime/20771) (16:56 03 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
