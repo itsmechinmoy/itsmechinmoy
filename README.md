@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (11:41 03 September 2024)
 -   📺 Watched episode 1 - 10 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (17:01 02 September 2024)
 -   📺 Watched episode 1 - 9 of [I Parry Everything](https://anilist.co/anime/170695) (16:49 02 September 2024)
 -   📺 Watched episode 1 - 9 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:38 02 September 2024)
 -   📺 Watched episode 1 - 20 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (13:44 01 September 2024)
--   📺 Watched episode 1 - 8 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (13:16 01 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
