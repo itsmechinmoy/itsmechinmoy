@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (10:14 04 September 2024)
+-   📺 Watched episode 1 - 4 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:09 04 September 2024)
 -   📺 Completed [The Silver Guardian](https://anilist.co/anime/21662) (17:00 03 September 2024)
 -   📺 Completed [After the Rain](https://anilist.co/anime/98385) (16:58 03 September 2024)
 -   📺 Completed [Beyond the Boundary](https://anilist.co/anime/18153) (16:58 03 September 2024)
