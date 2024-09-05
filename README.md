@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 18 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (15:56 05 September 2024)
+-   📺 Watched episode 1 - 20 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:20 05 September 2024)
 -   📺 Watched episode 1 - 10 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (17:19 04 September 2024)
 -   📺 Completed [The Silver Guardian](https://anilist.co/anime/21662) (17:00 03 September 2024)
 -   📺 Completed [After the Rain](https://anilist.co/anime/98385) (16:58 03 September 2024)
