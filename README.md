@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (02:28 07 September 2024)
+-   📺 Watched episode 1 - 9 of [Dungeon People](https://anilist.co/anime/168345) (02:28 07 September 2024)
 -   📺 Watched episode 1 - 21 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:47 06 September 2024)
 -   📺 Watched episode 1 - 10 of [I Parry Everything](https://anilist.co/anime/170695) (16:40 05 September 2024)
 -   📺 Watched episode 1 - 20 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:20 05 September 2024)
--   📺 Watched episode 1 - 10 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (17:19 04 September 2024)
--   📺 Completed [The Silver Guardian](https://anilist.co/anime/21662) (17:00 03 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
