@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:27 07 September 2024)
 -   📺 Watched episode 1 - 8 of [Dungeon People](https://anilist.co/anime/168345) (12:50 07 September 2024)
 -   📺 Watched episode 1 - 9 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (12:50 07 September 2024)
 -   📺 Watched episode 1 - 9 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (12:50 07 September 2024)
 -   📺 Watched episode 1 - 21 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:47 06 September 2024)
--   📺 Watched episode 1 - 10 of [I Parry Everything](https://anilist.co/anime/170695) (16:40 05 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
