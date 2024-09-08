@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 1118 of [ONE PIECE](https://anilist.co/anime/21) (03:43 08 September 2024)
 -   📺 Watched episode 1 - 9 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (16:56 07 September 2024)
 -   📺 Watched episode 1 - 21 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:42 07 September 2024)
 -   📺 Watched episode 1 - 9 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (16:41 07 September 2024)
 -   📺 Watched episode 1 - 10 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:27 07 September 2024)
--   📺 Watched episode 1 - 8 of [Dungeon People](https://anilist.co/anime/168345) (12:50 07 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
