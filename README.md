@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (11:03 09 September 2024)
 -   📺 Watched episode 1 - 11 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:28 08 September 2024)
 -   📺 Watched episode 1 - 10 of [Tower of God Season 2](https://anilist.co/anime/153406) (16:00 08 September 2024)
 -   📺 Watched episode 1 - 10 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (09:41 08 September 2024)
 -   📺 Watched episode 1 - 9 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (09:23 08 September 2024)
--   📺 Watched episode 1 - 1118 of [ONE PIECE](https://anilist.co/anime/21) (03:43 08 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
