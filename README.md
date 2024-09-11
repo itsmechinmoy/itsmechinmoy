@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:58 11 September 2024)
 -   📺 Watched episode 1 - 10 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:42 11 September 2024)
 -   📺 Completed [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:24 11 September 2024)
 -   📺 Watched episode 1 - 12 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:24 11 September 2024)
 -   📺 Watched episode 1 - 2 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (12:53 11 September 2024)
--   📺 Completed [Welcome to the Ballroom](https://anilist.co/anime/98005) (12:51 11 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
