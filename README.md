@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (09:31 13 September 2024)
 -   📺 Watched episode 1 - 11 of [I Parry Everything](https://anilist.co/anime/170695) (17:19 12 September 2024)
 -   📺 Watched episode 1 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:58 11 September 2024)
 -   📺 Watched episode 1 - 10 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:42 11 September 2024)
 -   📺 Completed [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:24 11 September 2024)
--   📺 Watched episode 1 - 12 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (16:24 11 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
