@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (16:09 14 September 2024)
 -   📺 Watched episode 1 - 22 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:35 13 September 2024)
 -   📺 Watched episode 1 - 5 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (09:31 13 September 2024)
 -   📺 Watched episode 1 - 11 of [I Parry Everything](https://anilist.co/anime/170695) (17:19 12 September 2024)
 -   📺 Watched episode 1 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:58 11 September 2024)
--   📺 Watched episode 1 - 10 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:42 11 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
