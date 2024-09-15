@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (14:01 15 September 2024)
+-   📺 Watched episode 1 - 10 of [Dungeon People](https://anilist.co/anime/168345) (14:01 15 September 2024)
+-   📺 Watched episode 1 - 10 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (14:01 15 September 2024)
+-   📺 Watched episode 1 - 10 of [VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://anilist.co/anime/160488) (14:00 15 September 2024)
 -   📺 Watched episode 1 - 10 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (10:41 15 September 2024)
--   📺 Watched episode 1 - 1119 of [ONE PIECE](https://anilist.co/anime/21) (10:23 15 September 2024)
--   📺 Completed [A Nobody's Way Up to an Exploration Hero](https://anilist.co/anime/172416) (16:29 14 September 2024)
--   📺 Watched episode 1 - 11 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:27 14 September 2024)
--   📺 Watched episode 1 - 10 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (16:09 14 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
