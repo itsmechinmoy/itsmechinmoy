@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (03:40 16 September 2024)
 -   📺 Watched episode 1 - 10 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (16:26 15 September 2024)
 -   📺 Watched episode 1 - 11 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (16:11 15 September 2024)
 -   📺 Watched episode 1 - 11 of [Tower of God Season 2](https://anilist.co/anime/153406) (16:02 15 September 2024)
 -   📺 Watched episode 1 - 11 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (14:01 15 September 2024)
--   📺 Watched episode 1 - 10 of [Dungeon People](https://anilist.co/anime/168345) (14:01 15 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
