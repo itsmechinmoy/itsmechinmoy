@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:26 18 September 2024)
 -   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (14:45 17 September 2024)
 -   📺 Completed [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (12:15 16 September 2024)
 -   📺 Watched episode 1 - 12 of [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (12:14 16 September 2024)
 -   📺 Watched episode 1 - 11 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (12:01 16 September 2024)
--   📺 Watched episode 1 - 10 of [Dungeon People](https://anilist.co/anime/168345) (12:01 16 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
