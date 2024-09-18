@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (17:05 18 September 2024)
+-   📺 Watched episode 1 - 11 of [VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://anilist.co/anime/160488) (16:53 18 September 2024)
 -   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:47 18 September 2024)
 -   📺 Watched episode 1 - 12 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:47 18 September 2024)
 -   📺 Watched episode 1 - 11 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:26 18 September 2024)
--   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (14:45 17 September 2024)
--   📺 Completed [A Journey Through Another World: Raising Kids While Adventuring](https://anilist.co/anime/171031) (12:15 16 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
