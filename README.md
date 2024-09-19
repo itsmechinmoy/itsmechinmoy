@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (17:05 18 September 2024)
--   📺 Watched episode 1 - 11 of [VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://anilist.co/anime/160488) (16:53 18 September 2024)
--   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:47 18 September 2024)
--   📺 Watched episode 1 - 12 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:47 18 September 2024)
--   📺 Watched episode 1 - 11 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:26 18 September 2024)
+-   📖 Read chapter 29 - 114 of [Kaiju No.8](https://anilist.co/manga/120760) (16:15 19 September 2024)
+-   📖 Read chapter 96 - 103 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (16:13 19 September 2024)
+-   📖 Read chapter 35 - 39 of [My Daughter Left the Nest and Returned an S-Rank Adventurer](https://anilist.co/manga/102476) (16:13 19 September 2024)
+-   📖 Read chapter 30 - 32 of [My Happy Marriage](https://anilist.co/manga/106531) (16:12 19 September 2024)
+-   📖 Read chapter 165 - 189 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (16:08 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
