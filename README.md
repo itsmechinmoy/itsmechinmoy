@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (11:05 20 September 2024)
 -   📖 Read chapter 177 - 188 of [Hajimete no Gal](https://anilist.co/manga/87315) (16:17 19 September 2024)
 -   📖 Read chapter 59 - 62 of [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/manga/98171) (16:16 19 September 2024)
 -   📖 Read chapter 29 - 114 of [Kaiju No.8](https://anilist.co/manga/120760) (16:15 19 September 2024)
 -   📖 Read chapter 96 - 103 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (16:13 19 September 2024)
--   📖 Read chapter 35 - 39 of [My Daughter Left the Nest and Returned an S-Rank Adventurer](https://anilist.co/manga/102476) (16:13 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
