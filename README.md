@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Haikyuu!!](https://anilist.co/manga/181735) (16:36 20 September 2024)
+-   📺 Watched episode 1 - 23 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:35 20 September 2024)
 -   📺 Completed [Delicious in Dungeon](https://anilist.co/anime/153518) (13:10 20 September 2024)
 -   📺 Watched episode 1 - 10 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (13:10 20 September 2024)
 -   📺 Watched episode 1 - 11 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (11:33 20 September 2024)
--   📺 Completed [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (11:16 20 September 2024)
--   📺 Watched episode 1 - 12 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (11:15 20 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
