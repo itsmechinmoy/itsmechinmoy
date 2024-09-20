@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (11:33 20 September 2024)
 -   📺 Completed [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (11:16 20 September 2024)
 -   📺 Watched episode 1 - 12 of [The Café Terrace and Its Goddesses Season 2](https://anilist.co/anime/166477) (11:15 20 September 2024)
 -   📺 Watched episode 1 - 6 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (11:05 20 September 2024)
 -   📖 Read chapter 177 - 188 of [Hajimete no Gal](https://anilist.co/manga/87315) (16:17 19 September 2024)
--   📖 Read chapter 59 - 62 of [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/manga/98171) (16:16 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
