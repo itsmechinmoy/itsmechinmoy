@@ -15,10 +15,10 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (06:32 21 September 2024)
 -   📺 Watched episode 1 - 12 of [Quality Assurance in Another World](https://anilist.co/anime/163077) (02:29 21 September 2024)
 -   📺 Watched episode 1 - 11 of [Dungeon People](https://anilist.co/anime/168345) (02:28 21 September 2024)
 -   📺 Watched episode 1 - 23 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:35 20 September 2024)
--   📺 Watched episode 1 - 10 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (13:10 20 September 2024)
 -   📺 Watched episode 1 - 11 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (11:33 20 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
