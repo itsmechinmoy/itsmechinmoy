@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:40 22 September 2024)
 -   📺 Watched episode 1 - 1120 of [ONE PIECE](https://anilist.co/anime/21) (04:12 22 September 2024)
 -   📺 Watched episode 1 - 24 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:58 21 September 2024)
 -   📺 Watched episode 1 - 11 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (16:16 21 September 2024)
 -   📺 Watched episode 1 - 12 of [Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://anilist.co/anime/168623) (16:03 21 September 2024)
--   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (06:32 21 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
