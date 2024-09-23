@@ -16,10 +16,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Watched episode 1 - 12 of [Fairy Tail](https://anilist.co/anime/6702) (15:49 23 September 2024)
--   📺 Watched episode 1 - 17 of [Fairy Tail Final Season](https://anilist.co/anime/99749) (15:46 23 September 2024)
 -   📺 Watched episode 1 - 11 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:40 22 September 2024)
 -   📺 Watched episode 1 - 1120 of [ONE PIECE](https://anilist.co/anime/21) (04:12 22 September 2024)
 -   📺 Watched episode 1 - 24 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (16:58 21 September 2024)
+-   📺 Watched episode 1 - 11 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (16:16 21 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
