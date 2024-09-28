@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 59 of [Fairy Tail](https://anilist.co/anime/6702) (10:53 28 September 2024)
+-   📺 Watched episode 1 - 75 of [Fairy Tail](https://anilist.co/anime/6702) (14:29 28 September 2024)
 -   📺 Watched episode 1 - 7 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (18:40 27 September 2024)
 -   📺 Watched episode 1 - 12 of [The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://anilist.co/anime/163292) (04:11 26 September 2024)
 -   📺 Watched episode 1 - 12 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (03:56 26 September 2024)
