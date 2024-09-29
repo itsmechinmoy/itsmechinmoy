@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:28 29 September 2024)
 -   📺 Watched episode 1 - 12 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (19:00 28 September 2024)
 -   📺 Watched episode 1 - 12 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (18:40 28 September 2024)
 -   📺 Watched episode 1 - 77 of [Fairy Tail](https://anilist.co/anime/6702) (18:31 28 September 2024)
 -   📺 Watched episode 1 - 24 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (14:50 28 September 2024)
--   📺 Watched episode 1 - 7 of [Rick and Morty: The Anime](https://anilist.co/anime/150103) (18:40 27 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
