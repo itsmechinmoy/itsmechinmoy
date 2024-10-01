@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 97 of [Fairy Tail](https://anilist.co/anime/6702) (11:42 30 September 2024)
+-   📺 Watched episode 1 - 87 of [Fairy Tail](https://anilist.co/anime/6702) (07:52 01 October 2024)
 -   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (08:54 30 September 2024)
 -   📺 Watched episode 1 - 12 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:28 29 September 2024)
 -   📺 Watched episode 1 - 12 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (19:00 28 September 2024)
