@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 100 of [Fairy Tail](https://anilist.co/anime/6702) (08:57 01 October 2024)
--   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (08:54 30 September 2024)
--   📺 Watched episode 1 - 12 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:28 29 September 2024)
--   📺 Watched episode 1 - 12 of [Why Does Nobody Remember Me in This World?](https://anilist.co/anime/167419) (19:00 28 September 2024)
--   📺 Watched episode 1 - 12 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (18:40 28 September 2024)
+-   📺 Watched episode 1 - 106 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
+-   📺 Watched episode 1 - 105 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
+-   📺 Watched episode 1 - 104 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
+-   📺 Watched episode 1 - 103 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
+-   📺 Watched episode 1 - 102 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
