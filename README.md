@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 124 of [Fairy Tail](https://anilist.co/anime/6702) (07:34 02 October 2024)
+-   📺 Watched episode 1 - 100 of [Fairy Tail](https://anilist.co/anime/6702) (09:09 02 October 2024)
 -   📺 Watched episode 1 - 105 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
 -   📺 Watched episode 1 - 104 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
 -   📺 Watched episode 1 - 103 of [Fairy Tail](https://anilist.co/anime/6702) (15:00 01 October 2024)
