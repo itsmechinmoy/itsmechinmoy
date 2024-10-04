@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (17:27 04 October 2024)
 -   📖 Read chapter 79 of [Hozuki-san Chi no Aneki + Imouto](https://anilist.co/manga/85397) (16:24 04 October 2024)
--   📺 Watched episode 1 - 9 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (15:55 04 October 2024)
 -   📺 Watched episode 1 - 175 of [Fairy Tail](https://anilist.co/anime/6702) (09:45 04 October 2024)
 -   📺 Watched episode 1 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:10 02 October 2024)
 -   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 02 October 2024)
