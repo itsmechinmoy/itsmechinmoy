@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 174 of [Fairy Tail](https://anilist.co/anime/6702) (09:33 04 October 2024)
+-   📺 Watched episode 1 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (09:46 04 October 2024)
+-   📺 Watched episode 1 - 175 of [Fairy Tail](https://anilist.co/anime/6702) (09:45 04 October 2024)
 -   📺 Watched episode 1 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:10 02 October 2024)
 -   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 02 October 2024)
 -   📺 Watched episode 1 - 11 of [No Longer Allowed in Another World](https://anilist.co/anime/152137) (08:54 30 September 2024)
--   📺 Watched episode 1 - 12 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (15:28 29 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
