@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 23 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (07:42 05 October 2024)
+-   📺 Watched episode 1 - 25 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (08:06 05 October 2024)
 -   📺 Watched episode 1 - 175 of [Fairy Tail](https://anilist.co/anime/6702) (09:45 04 October 2024)
 -   📺 Watched episode 1 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:10 02 October 2024)
 -   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 02 October 2024)
