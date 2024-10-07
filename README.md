@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 96 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (07:23 07 October 2024)
+-   📺 Watched episode 1 - 97 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (07:38 07 October 2024)
 -   📺 Watched episode 1 - 13 of [Tower of God Season 2](https://anilist.co/anime/153406) (06:58 07 October 2024)
 -   📺 Watched episode 2 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (06:58 07 October 2024)
 -   📺 Watched episode 1 - 13 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (06:11 07 October 2024)
