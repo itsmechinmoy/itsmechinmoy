@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 47 of [Fairy Tail Final Season](https://anilist.co/anime/99749) (15:59 08 October 2024)
 -   📺 Watched episode 1 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (15:37 08 October 2024)
--   📺 Watched episode 1 - 45 of [Fairy Tail Final Season](https://anilist.co/anime/99749) (10:12 08 October 2024)
 -   📺 Watched episode 1 - 102 of [Fairy Tail Series 2](https://anilist.co/anime/20626) (08:40 07 October 2024)
 -   📺 Watched episode 1 - 13 of [Tower of God Season 2](https://anilist.co/anime/153406) (06:58 07 October 2024)
 -   📺 Watched episode 2 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (06:58 07 October 2024)
