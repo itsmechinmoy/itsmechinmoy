@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 8 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (08:31 09 October 2024)
+-   📺 Watched episode 1 - 8 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (11:42 09 October 2024)
 -   📺 Watched episode 1 - 2 of [Uzumaki](https://anilist.co/anime/111314) (19:09 08 October 2024)
 -   📺 Watched episode 1 - 2 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:52 08 October 2024)
 -   📺 Watched episode 1 - 51 of [Fairy Tail Final Season](https://anilist.co/anime/99749) (18:38 08 October 2024)
