@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (17:56 11 October 2024)
+-   📺 Watched episode 1 - 2 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (17:56 11 October 2024)
 -   📺 Watched episode 1 of [Bye Bye, Earth](https://anilist.co/anime/157371) (10:45 11 October 2024)
 -   📺 Watched episode 1 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:18 11 October 2024)
 -   📺 Watched episode 1 of [Nina the Starry Bride](https://anilist.co/anime/171038) (19:04 10 October 2024)
--   📺 Watched episode 1 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (19:04 10 October 2024)
--   📺 Watched episode 1 of [Negative Positive Angler](https://anilist.co/anime/179919) (19:03 10 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
