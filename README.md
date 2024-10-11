@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Bye Bye, Earth](https://anilist.co/anime/157371) (10:45 11 October 2024)
 -   📺 Watched episode 1 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:18 11 October 2024)
 -   📺 Watched episode 1 of [Nina the Starry Bride](https://anilist.co/anime/171038) (19:04 10 October 2024)
 -   📺 Watched episode 1 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (19:04 10 October 2024)
 -   📺 Watched episode 1 of [Negative Positive Angler](https://anilist.co/anime/179919) (19:03 10 October 2024)
--   📺 Watched episode 1 of [365 Days to the Wedding](https://anilist.co/anime/165790) (19:02 10 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
