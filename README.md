@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (19:01 12 October 2024)
+-   📺 Watched episode 1 - 2 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (19:25 12 October 2024)
 -   📺 Watched episode 1 - 2 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (18:33 11 October 2024)
 -   📺 Watched episode 1 - 2 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (17:56 11 October 2024)
 -   📺 Watched episode 1 of [Bye Bye, Earth](https://anilist.co/anime/157371) (10:45 11 October 2024)
