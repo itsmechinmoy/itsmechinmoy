@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:07 14 October 2024)
 -   📺 Watched episode 2 - 3 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (19:29 13 October 2024)
 -   📺 Watched episode 1 - 14 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (19:17 13 October 2024)
 -   📺 Watched episode 1 - 15 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:18 13 October 2024)
 -   📺 Watched episode 1 - 2 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (08:09 13 October 2024)
--   📺 Watched episode 1 of [DAN DA DAN](https://anilist.co/anime/171018) (08:04 13 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
