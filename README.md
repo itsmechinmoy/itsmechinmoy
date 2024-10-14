@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:04 14 October 2024)
 -   📺 Watched episode 1 - 3 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (15:20 14 October 2024)
 -   📺 Watched episode 1 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (15:18 14 October 2024)
 -   📺 Watched episode 1 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:07 14 October 2024)
 -   📺 Watched episode 1 - 14 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (19:17 13 October 2024)
--   📺 Watched episode 1 - 15 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:18 13 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
