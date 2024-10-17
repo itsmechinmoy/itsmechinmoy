@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Loner Life in Another World](https://anilist.co/anime/173693) (18:55 17 October 2024)
 -   📺 Watched episode 1 - 3 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (18:38 17 October 2024)
 -   📺 Watched episode 1 - 3 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (17:43 16 October 2024)
 -   📺 Watched episode 1 - 2 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:26 16 October 2024)
 -   📺 Watched episode 1 - 3 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:29 15 October 2024)
--   📺 Watched episode 1 - 2 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:04 14 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
