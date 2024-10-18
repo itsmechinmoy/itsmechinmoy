@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 1130 of [One Piece](https://anilist.co/manga/30013) (18:32 18 October 2024)
+-   📺 Watched episode 1 - 3 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (18:26 18 October 2024)
+-   📺 Watched episode 1 - 3 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (18:17 18 October 2024)
 -   📺 Watched episode 1 - 4 of [Loner Life in Another World](https://anilist.co/anime/173693) (18:55 17 October 2024)
 -   📺 Watched episode 1 - 3 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (18:38 17 October 2024)
--   📺 Watched episode 1 - 3 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (17:43 16 October 2024)
--   📺 Watched episode 1 - 2 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:26 16 October 2024)
--   📺 Watched episode 1 - 3 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:29 15 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
