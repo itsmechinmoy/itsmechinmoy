@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (16:26 20 October 2024)
 -   📺 Watched episode 1 - 3 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (16:29 19 October 2024)
 -   📖 Read chapter 1 - 1130 of [One Piece](https://anilist.co/manga/30013) (18:32 18 October 2024)
 -   📺 Watched episode 1 - 3 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (18:26 18 October 2024)
 -   📺 Watched episode 1 - 3 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (18:17 18 October 2024)
--   📺 Watched episode 1 - 4 of [Loner Life in Another World](https://anilist.co/anime/173693) (18:55 17 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
