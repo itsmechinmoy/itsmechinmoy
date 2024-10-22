@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (16:55 22 October 2024)
 -   📺 Watched episode 1 - 4 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (16:39 22 October 2024)
 -   📺 Watched episode 1 - 4 of [Uzumaki](https://anilist.co/anime/111314) (17:04 20 October 2024)
 -   📺 Watched episode 1 - 4 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:57 20 October 2024)
 -   📺 Watched episode 1 - 15 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (16:44 20 October 2024)
--   📺 Watched episode 1 - 3 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (16:26 20 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
