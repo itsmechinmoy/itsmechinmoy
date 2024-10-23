@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:53 23 October 2024)
 -   📺 Watched episode 1 - 3 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (16:35 23 October 2024)
 -   📺 Watched episode 1 of [ONE PIECE FAN LETTER](https://anilist.co/anime/182469) (17:25 22 October 2024)
 -   📺 Watched episode 1 - 3 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (16:55 22 October 2024)
 -   📺 Watched episode 1 - 4 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (16:39 22 October 2024)
--   📺 Watched episode 1 - 4 of [Uzumaki](https://anilist.co/anime/111314) (17:04 20 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
