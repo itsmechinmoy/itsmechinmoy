@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [DAN DA DAN](https://anilist.co/anime/171018) (13:27 28 October 2024)
+-   📺 Watched episode 1 - 4 of [DAN DA DAN](https://anilist.co/anime/171018) (14:48 28 October 2024)
 -   📺 Watched episode 1 - 4 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (16:35 27 October 2024)
 -   📺 Watched episode 1 - 16 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (16:17 27 October 2024)
 -   📺 Watched episode 1 - 4 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:53 23 October 2024)
