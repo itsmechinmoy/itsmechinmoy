@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (16:47 29 October 2024)
 -   📺 Watched episode 1 - 5 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (16:34 29 October 2024)
 -   📺 Watched episode 1 - 4 of [DAN DA DAN](https://anilist.co/anime/171018) (14:51 28 October 2024)
 -   📺 Watched episode 1 - 4 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (16:35 27 October 2024)
 -   📺 Watched episode 1 - 16 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (16:17 27 October 2024)
--   📺 Watched episode 1 - 4 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:53 23 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
