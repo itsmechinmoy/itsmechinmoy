@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (16:47 29 October 2024)
--   📺 Watched episode 1 - 5 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (16:34 29 October 2024)
--   📺 Watched episode 1 - 4 of [DAN DA DAN](https://anilist.co/anime/171018) (14:51 28 October 2024)
--   📺 Watched episode 1 - 4 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (16:35 27 October 2024)
--   📺 Watched episode 1 - 16 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (16:17 27 October 2024)
+-   📺 Watched episode 1 - 4 of [Vampire in the Garden](https://anilist.co/anime/108357) (07:07 31 October 2024)
+-   📺 Watched episode 1 - 11 of [After the Rain](https://anilist.co/anime/98385) (07:06 31 October 2024)
+-   📺 Watched episode 1 of [Our love has always been 10 centimeters apart.](https://anilist.co/anime/98977) (07:05 31 October 2024)
+-   📺 Watched episode 2 - 11 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (07:05 31 October 2024)
+-   📺 Watched episode 1 - 9 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (07:04 31 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
