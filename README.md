@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (06:19 01 November 2024)
+-   📺 Watched episode 2 - 8 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (06:11 01 November 2024)
 -   📺 Watched episode 1 - 11 of [Beyond the Boundary](https://anilist.co/anime/18153) (07:26 31 October 2024)
 -   📺 Watched episode 1 - 4 of [Vampire in the Garden](https://anilist.co/anime/108357) (07:07 31 October 2024)
 -   📺 Watched episode 1 - 11 of [After the Rain](https://anilist.co/anime/98385) (07:06 31 October 2024)
--   📺 Watched episode 1 of [Our love has always been 10 centimeters apart.](https://anilist.co/anime/98977) (07:05 31 October 2024)
--   📺 Watched episode 2 - 11 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (07:05 31 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
