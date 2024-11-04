@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (10:17 04 November 2024)
+-   📺 Watched episode 1 - 17 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (10:52 04 November 2024)
+-   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (10:48 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (10:00 04 November 2024)
 -   📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (16:41 03 November 2024)
 -   📺 Watched episode 1 - 8 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (06:19 01 November 2024)
--   📺 Watched episode 2 - 8 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (06:11 01 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
