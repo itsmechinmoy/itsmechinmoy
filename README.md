@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:30 08 November 2024)
+-   📺 Watched episode 1 - 5 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:43 08 November 2024)
 -   📺 Watched episode 1 - 6 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (17:15 08 November 2024)
 -   📺 Watched episode 1 - 6 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (17:00 08 November 2024)
 -   📺 Watched episode 1 - 6 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:52 06 November 2024)
