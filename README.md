@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 207 of [One-Punch Man](https://anilist.co/manga/74347) (12:00 13 November 2024)
 -   📺 Watched episode 1 of [Maid Kyouiku.: Botsuraku Kizoku Rurikawa Tsubaki - THE ANIMATION](https://anilist.co/anime/147622) (13:27 11 November 2024)
 -   📺 Watched episode 1 - 6 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (17:05 09 November 2024)
 -   📺 Watched episode 1 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:53 09 November 2024)
 -   📺 Watched episode 1 - 6 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (17:15 08 November 2024)
--   📺 Watched episode 1 - 6 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (17:00 08 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
