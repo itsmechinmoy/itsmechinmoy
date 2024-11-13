@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:50 13 November 2024)
 -   📺 Watched episode 1 - 6 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:37 13 November 2024)
 -   📖 Read chapter 1 - 207 of [One-Punch Man](https://anilist.co/manga/74347) (12:00 13 November 2024)
 -   📺 Watched episode 1 - 6 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (17:05 09 November 2024)
 -   📺 Watched episode 1 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:53 09 November 2024)
--   📺 Watched episode 1 - 6 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (17:15 08 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
