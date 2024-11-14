@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:07 14 November 2024)
 -   📖 Read chapter 1 - 166 of [[Oshi no Ko]](https://anilist.co/manga/117195) (15:58 14 November 2024)
 -   📺 Watched episode 1 - 2 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (18:03 13 November 2024)
 -   📺 Watched episode 1 - 18 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (18:02 13 November 2024)
 -   📺 Watched episode 1 - 7 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:50 13 November 2024)
--   📺 Watched episode 1 - 6 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:37 13 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
