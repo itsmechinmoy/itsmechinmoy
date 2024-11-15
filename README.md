@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 181 of [The Promised Neverland](https://anilist.co/manga/87423) (17:29 14 November 2024)
--   📖 Read chapter 1 - 489 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:27 14 November 2024)
--   📺 Watched episode 1 - 7 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:07 14 November 2024)
--   📖 Read chapter 1 - 166 of [[Oshi no Ko]](https://anilist.co/manga/117195) (15:58 14 November 2024)
--   📺 Watched episode 1 - 2 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (18:03 13 November 2024)
+-   📖 Read chapter 259 of [Fly Me to the Moon](https://anilist.co/manga/101177) (13:55 15 November 2024)
+-   📖 Read chapter 65 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103851) (13:55 15 November 2024)
+-   📖 Read chapter 57 of [Rurouni Kenshin: Meiji Kenkaku Romantan - Hokkaido-hen](https://anilist.co/manga/101938) (13:55 15 November 2024)
+-   📖 Read chapter 72 of [Fate/kaleid liner Prisma ☆ Illya Drei 3!!](https://anilist.co/manga/66131) (13:53 15 November 2024)
+-   📖 Read chapter 375 of [Berserk](https://anilist.co/manga/30002) (13:53 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
