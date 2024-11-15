@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Fate/Grand Order: Dengeki Comic Anthology](https://anilist.co/manga/96931) (14:31 15 November 2024)
+-   📖 Read chapter 92 of [Fate/stay night [Heaven's Feel]](https://anilist.co/manga/86182) (14:25 15 November 2024)
+-   📖 Read chapter 84 of [Durarara!! Re;Dollars Arc](https://anilist.co/manga/93748) (14:23 15 November 2024)
 -   📖 Read chapter 5 of [Fate/Prototype: Sougin no Fragments](https://anilist.co/manga/167469) (14:00 15 November 2024)
 -   📖 Read chapter 22 of [Demon Lord Exchange!!](https://anilist.co/manga/166150) (14:00 15 November 2024)
--   📖 Read chapter 70 of [Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai](https://anilist.co/manga/147108) (13:59 15 November 2024)
--   📖 Read chapter 71 of [Beast Tamer](https://anilist.co/manga/108115) (13:57 15 November 2024)
--   📖 Read chapter 259 of [Fly Me to the Moon](https://anilist.co/manga/101177) (13:55 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
