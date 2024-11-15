@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 of [Fate/Prototype: Sougin no Fragments](https://anilist.co/manga/167469) (14:00 15 November 2024)
+-   📖 Read chapter 22 of [Demon Lord Exchange!!](https://anilist.co/manga/166150) (14:00 15 November 2024)
+-   📖 Read chapter 70 of [Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai](https://anilist.co/manga/147108) (13:59 15 November 2024)
+-   📖 Read chapter 71 of [Beast Tamer](https://anilist.co/manga/108115) (13:57 15 November 2024)
 -   📖 Read chapter 259 of [Fly Me to the Moon](https://anilist.co/manga/101177) (13:55 15 November 2024)
--   📖 Read chapter 65 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103851) (13:55 15 November 2024)
--   📖 Read chapter 57 of [Rurouni Kenshin: Meiji Kenkaku Romantan - Hokkaido-hen](https://anilist.co/manga/101938) (13:55 15 November 2024)
--   📖 Read chapter 72 of [Fate/kaleid liner Prisma ☆ Illya Drei 3!!](https://anilist.co/manga/66131) (13:53 15 November 2024)
--   📖 Read chapter 375 of [Berserk](https://anilist.co/manga/30002) (13:53 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
