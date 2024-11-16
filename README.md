@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Dandadan](https://anilist.co/manga/132029) (12:26 16 November 2024)
 -   📺 Watched episode 1 - 7 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (16:52 15 November 2024)
 -   📺 Watched episode 1 - 7 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (16:52 15 November 2024)
 -   📖 Read chapter 14 of [Fate/Grand Order: Dengeki Comic Anthology](https://anilist.co/manga/96931) (14:31 15 November 2024)
 -   📖 Read chapter 92 of [Fate/stay night [Heaven's Feel]](https://anilist.co/manga/86182) (14:25 15 November 2024)
--   📖 Read chapter 84 of [Durarara!! Re;Dollars Arc](https://anilist.co/manga/93748) (14:23 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
