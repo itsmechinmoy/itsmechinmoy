@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 - 65 of [The Faraway Paladin](https://anilist.co/manga/101521) (11:42 23 November 2024)
 -   📖 Read chapter 1 - 5 of [Dandadan](https://anilist.co/manga/132029) (11:02 23 November 2024)
 -   📖 Read chapter 1 of [Monster](https://anilist.co/manga/30001) (16:38 16 November 2024)
 -   📖 Read chapter 1 - 407 of [Hunter x Hunter](https://anilist.co/manga/30026) (16:36 16 November 2024)
 -   📺 Watched episode 1 - 7 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (16:52 15 November 2024)
--   📺 Watched episode 1 - 7 of [Good Bye, Dragon Life](https://anilist.co/anime/176053) (16:52 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
