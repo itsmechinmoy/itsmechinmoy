@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (05:18 24 November 2024)
+-   📺 Watched episode 1 - 15 of [Tower of God Season 2](https://anilist.co/anime/153406) (05:16 24 November 2024)
 -   📖 Read chapter 1 - 2 of [Teekyuu](https://anilist.co/manga/74949) (12:04 23 November 2024)
 -   📖 Read chapter 63 - 66 of [The Faraway Paladin](https://anilist.co/manga/101521) (12:03 23 November 2024)
 -   📖 Read chapter 1 - 5 of [Dandadan](https://anilist.co/manga/132029) (11:02 23 November 2024)
--   📖 Read chapter 1 of [Monster](https://anilist.co/manga/30001) (16:38 16 November 2024)
--   📖 Read chapter 1 - 407 of [Hunter x Hunter](https://anilist.co/manga/30026) (16:36 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
