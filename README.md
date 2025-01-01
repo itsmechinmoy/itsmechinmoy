@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 31 December 2024
+From: 11 May 2024 - To: 01 January 2025
 
-Total Time: 111 hrs 40 mins
+Total Time: 111 hrs 50 mins
 
-HTML              39 hrs 56 mins  █████████░░░░░░░░░░░░░░░░   35.76 %
-XML               22 hrs 52 mins  █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-Python            13 hrs 36 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-JavaScript        10 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Other             8 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-JSON              3 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+HTML              39 hrs 56 mins  █████████░░░░░░░░░░░░░░░░   35.71 %
+XML               22 hrs 53 mins  █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Python            13 hrs 36 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+JavaScript        10 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Other             8 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+JSON              3 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Text              3 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 CSS               2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 Bash              2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Kotlin            2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Kotlin            2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
