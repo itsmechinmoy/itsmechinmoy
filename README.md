@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 19 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (02:14 06 January 2025)
 -   📖 Read chapter 1 of [Sakamoto Days](https://anilist.co/manga/125828) (07:37 28 December 2024)
--   📺 Watched episode 1 - 18 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (15:42 15 December 2024)
 -   📺 Watched episode 1 - 10 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (08:11 14 December 2024)
 -   📺 Watched episode 1 - 13 of [Tower of God Season 2](https://anilist.co/anime/153406) (05:14 26 November 2024)
 -   📖 Read chapter 63 - 66 of [The Faraway Paladin](https://anilist.co/manga/101521) (12:03 23 November 2024)
