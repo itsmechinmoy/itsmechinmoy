@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:26 02 February 2025)
+-   📺 Watched episode 1 - 2 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:29 02 February 2025)
 -   📺 Watched episode 1 - 19 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (02:14 06 January 2025)
 -   📖 Read chapter 1 of [Sakamoto Days](https://anilist.co/manga/125828) (07:37 28 December 2024)
 -   📺 Watched episode 1 - 10 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (08:11 14 December 2024)
