@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (04:46 27 February 2025)
+-   📺 Watched episode 1 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (05:16 27 February 2025)
+-   📺 Watched episode 1 - 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (05:15 27 February 2025)
 -   📺 Watched episode 1 - 9 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (12:18 26 February 2025)
 -   📺 Watched episode 1 - 17 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (04:59 23 February 2025)
 -   📺 Watched episode 1 - 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:03 22 February 2025)
--   📺 Watched episode 1 - 4 of [Unnamed Memory](https://anilist.co/anime/158709) (15:21 20 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
