@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:46 27 February 2025)
+-   📺 Watched episode 1 - 6 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:23 27 February 2025)
 -   📺 Watched episode 1 - 7 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (09:22 27 February 2025)
 -   📺 Watched episode 1 - 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (05:15 27 February 2025)
 -   📺 Watched episode 1 - 9 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (12:18 26 February 2025)
