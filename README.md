@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (08:18 28 February 2025)
+-   📺 Watched episode 1 of [Farmagia](https://anilist.co/anime/178312) (08:13 28 February 2025)
 -   📺 Watched episode 1 - 9 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (04:43 28 February 2025)
 -   📺 Watched episode 1 - 8 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (04:30 28 February 2025)
 -   📺 Watched episode 1 - 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (05:15 27 February 2025)
--   📺 Watched episode 1 - 9 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (12:18 26 February 2025)
--   📺 Watched episode 1 - 17 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (04:59 23 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
