@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (16:33 01 March 2025)
+-   📺 Watched episode 1 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (16:20 01 March 2025)
 -   📺 Watched episode 1 - 9 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (11:59 01 March 2025)
 -   📺 Watched episode 1 - 8 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:31 28 February 2025)
 -   📺 Watched episode 1 of [Farmagia](https://anilist.co/anime/178312) (08:13 28 February 2025)
--   📺 Watched episode 1 - 9 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (04:43 28 February 2025)
--   📺 Watched episode 1 - 8 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (04:30 28 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
