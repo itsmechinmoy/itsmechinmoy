@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Nina the Starry Bride](https://anilist.co/anime/171038) (15:10 03 March 2025)
+-   📺 Watched episode 1 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (15:04 03 March 2025)
+-   📺 Watched episode 1 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (15:04 03 March 2025)
 -   📖 Read chapter 1 - 12 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (08:58 03 March 2025)
 -   📖 Read chapter 1 - 201 of [Solo Leveling](https://anilist.co/manga/105398) (03:23 03 March 2025)
--   📺 Watched episode 1 - 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:15 01 March 2025)
--   📺 Watched episode 1 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (16:56 01 March 2025)
--   📺 Watched episode 1 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (16:20 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
