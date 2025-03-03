@@ -15,10 +15,10 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (16:58 03 March 2025)
 -   📺 Watched episode 1 of [Nina the Starry Bride](https://anilist.co/anime/171038) (15:10 03 March 2025)
 -   📺 Watched episode 1 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (15:04 03 March 2025)
 -   📺 Watched episode 1 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (15:04 03 March 2025)
--   📖 Read chapter 1 - 12 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (08:58 03 March 2025)
 -   📖 Read chapter 1 - 201 of [Solo Leveling](https://anilist.co/manga/105398) (03:23 03 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
