@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (10:38 06 March 2025)
 -   📺 Watched episode 1 - 10 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:20 05 March 2025)
 -   📖 Read chapter 11 of [Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou](https://anilist.co/manga/113322) (16:09 05 March 2025)
 -   📺 Watched episode 1 - 10 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (17:15 04 March 2025)
 -   📺 Watched episode 1 - 10 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:58 04 March 2025)
--   📖 Read chapter 1 - 19 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (17:31 03 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
