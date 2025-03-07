@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (10:25 07 March 2025)
 -   📺 Watched episode 1 - 9 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (17:10 06 March 2025)
 -   📺 Watched episode 1 - 9 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:59 06 March 2025)
 -   📺 Watched episode 1 of [Grimgar of Fantasy and Ash](https://anilist.co/anime/21428) (11:06 06 March 2025)
 -   📺 Watched episode 1 - 2 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (11:05 06 March 2025)
--   📺 Watched episode 1 - 10 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:20 05 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
