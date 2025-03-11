@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:29 11 March 2025)
+-   📺 Watched episode 1 - 11 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (17:16 11 March 2025)
 -   📺 Watched episode 1 - 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:40 08 March 2025)
 -   📖 Read chapter 1 - 44 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (17:30 07 March 2025)
 -   📺 Watched episode 1 - 9 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (17:10 06 March 2025)
--   📺 Watched episode 1 - 9 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:59 06 March 2025)
--   📺 Watched episode 1 of [Grimgar of Fantasy and Ash](https://anilist.co/anime/21428) (11:06 06 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
