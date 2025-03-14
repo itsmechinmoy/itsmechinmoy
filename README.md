@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (17:22 14 March 2025)
 -   📺 Watched episode 1 - 11 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (04:47 13 March 2025)
--   📺 Watched episode 1 - 10 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (17:42 11 March 2025)
 -   📺 Watched episode 1 - 11 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:29 11 March 2025)
 -   📺 Watched episode 1 - 11 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (17:16 11 March 2025)
 -   📺 Watched episode 1 - 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:40 08 March 2025)
