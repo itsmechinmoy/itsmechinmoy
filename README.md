@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 12 of [Noblesse](https://anilist.co/anime/116005) (11:57 18 March 2025)
+-   📖 Read chapter 1 of [Noblesse](https://anilist.co/manga/59983) (12:10 18 March 2025)
+-   📺 Watched episode 1 - 13 of [Noblesse](https://anilist.co/anime/116005) (12:09 18 March 2025)
 -   📺 Watched episode 1 - 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:18 15 March 2025)
 -   📺 Watched episode 1 - 11 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (17:22 14 March 2025)
 -   📺 Watched episode 1 - 11 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (04:47 13 March 2025)
--   📺 Watched episode 1 - 11 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:29 11 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
