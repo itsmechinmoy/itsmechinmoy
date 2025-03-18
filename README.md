@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Noblesse](https://anilist.co/anime/116005) (18:02 17 March 2025)
+-   📺 Watched episode 1 - 8 of [Noblesse](https://anilist.co/anime/116005) (11:19 18 March 2025)
 -   📺 Watched episode 1 - 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:18 15 March 2025)
 -   📺 Watched episode 1 - 11 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (17:22 14 March 2025)
 -   📺 Watched episode 1 - 11 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (04:47 13 March 2025)
