@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:10 18 March 2025)
--   📖 Read chapter 1 of [Noblesse](https://anilist.co/manga/59983) (12:10 18 March 2025)
--   📺 Watched episode 1 - 13 of [Noblesse](https://anilist.co/anime/116005) (12:09 18 March 2025)
--   📺 Watched episode 1 - 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:18 15 March 2025)
--   📺 Watched episode 1 - 11 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (17:22 14 March 2025)
+-   📖 Read chapter 18 of [Fate/stay night: Unlimited Blade Works](https://anilist.co/manga/131587) (15:13 20 March 2025)
+-   📖 Read chapter 124 of [Frieren: Beyond Journey’s End](https://anilist.co/manga/118586) (15:11 20 March 2025)
+-   📖 Read chapter 46 of [Re:ZERO -Starting Life in Another World- Chapter 4: The Sanctuary and the Witch of Greed](https://anilist.co/manga/112218) (15:10 20 March 2025)
+-   📖 Read chapter 18 of [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten I Akushou Kakuzetsu Makyou Shinjuku - Shinjuku Maboroshi Tamashi Jiken](https://anilist.co/manga/107553) (15:06 20 March 2025)
+-   📖 Read chapter 25 of [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV Kinki Kourin Teien Salem - Itan Naru Salem](https://anilist.co/manga/107556) (15:06 20 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
