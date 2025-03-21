@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [I Have a Crush at Work](https://anilist.co/anime/179696) (10:57 21 March 2025)
+-   📺 Watched episode 1 - 4 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:36 21 March 2025)
 -   📖 Read chapter 29 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (15:16 20 March 2025)
 -   📖 Read chapter 18 of [Fate/stay night: Unlimited Blade Works](https://anilist.co/manga/131587) (15:13 20 March 2025)
 -   📖 Read chapter 124 of [Frieren: Beyond Journey’s End](https://anilist.co/manga/118586) (15:11 20 March 2025)
