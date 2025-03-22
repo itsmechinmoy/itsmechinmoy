@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Omniscient Reader](https://anilist.co/manga/119257) (07:32 22 March 2025)
+-   📖 Read chapter 1 - 4 of [Omniscient Reader](https://anilist.co/manga/119257) (11:19 22 March 2025)
 -   📺 Watched episode 1 - 5 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:50 21 March 2025)
 -   📖 Read chapter 29 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (15:16 20 March 2025)
 -   📖 Read chapter 18 of [Fate/stay night: Unlimited Blade Works](https://anilist.co/manga/131587) (15:13 20 March 2025)
