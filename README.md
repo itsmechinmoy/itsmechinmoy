@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Omniscient Reader](https://anilist.co/manga/119257) (07:32 22 March 2025)
 -   📺 Watched episode 1 - 5 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:50 21 March 2025)
 -   📖 Read chapter 29 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (15:16 20 March 2025)
 -   📖 Read chapter 18 of [Fate/stay night: Unlimited Blade Works](https://anilist.co/manga/131587) (15:13 20 March 2025)
 -   📖 Read chapter 124 of [Frieren: Beyond Journey’s End](https://anilist.co/manga/118586) (15:11 20 March 2025)
--   📖 Read chapter 46 of [Re:ZERO -Starting Life in Another World- Chapter 4: The Sanctuary and the Witch of Greed](https://anilist.co/manga/112218) (15:10 20 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
