@@ -15,9 +15,9 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 11 of [Omniscient Reader](https://anilist.co/manga/119257) (10:16 24 March 2025)
 -   📺 Watched episode 1 - 5 of [Elfen Lied](https://anilist.co/anime/226) (13:29 23 March 2025)
 -   📺 Watched episode 1 - 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:23 22 March 2025)
--   📖 Read chapter 1 - 7 of [Omniscient Reader](https://anilist.co/manga/119257) (11:39 22 March 2025)
 -   📺 Watched episode 1 - 5 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:50 21 March 2025)
 -   📖 Read chapter 29 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (15:16 20 March 2025)
 
