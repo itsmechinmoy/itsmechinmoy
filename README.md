@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:33 31 March 2025)
 -   📺 Watched episode 1 - 25 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:21 31 March 2025)
 -   📺 Watched episode 1 - 12 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (07:22 31 March 2025)
 -   📺 Watched episode 1 - 12 of [Elfen Lied](https://anilist.co/anime/226) (13:02 25 March 2025)
 -   📖 Read chapter 1 - 45 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (10:51 24 March 2025)
--   📖 Read chapter 1 - 11 of [Omniscient Reader](https://anilist.co/manga/119257) (10:16 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
