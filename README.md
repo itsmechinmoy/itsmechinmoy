@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:32 06 April 2025)
+-   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (18:32 06 April 2025)
 -   📺 Watched episode 1 - 8 of [Muteki Choujin Zambot 3](https://anilist.co/anime/2200) (10:52 04 April 2025)
 -   📺 Watched episode 1 - 6 of [I Have a Crush at Work](https://anilist.co/anime/179696) (14:04 02 April 2025)
 -   📺 Watched episode 1 - 12 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:33 31 March 2025)
--   📺 Watched episode 1 - 25 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:21 31 March 2025)
--   📺 Watched episode 1 - 12 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (07:22 31 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
