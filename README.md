@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:24 11 April 2025)
+-   📺 Watched episode 1 - 13 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:45 11 April 2025)
 -   📺 Watched episode 1 - 1124 of [ONE PIECE](https://anilist.co/anime/21) (10:02 07 April 2025)
 -   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:32 06 April 2025)
 -   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (18:32 06 April 2025)
