@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:09 13 April 2025)
+-   📺 Watched episode 1 - 12 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (18:56 13 April 2025)
 -   📺 Watched episode 1 - 2 of [Fire Force Season 3](https://anilist.co/anime/149118) (15:42 13 April 2025)
 -   📺 Watched episode 1 - 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (15:54 12 April 2025)
 -   📺 Watched episode 1 - 14 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:56 11 April 2025)
--   📺 Watched episode 1 - 1124 of [ONE PIECE](https://anilist.co/anime/21) (10:02 07 April 2025)
--   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:32 06 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
