@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:47 19 April 2025)
+-   📺 Watched episode 1 - 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:48 20 April 2025)
 -   📺 Watched episode 1 - 3 of [Fire Force Season 3](https://anilist.co/anime/149118) (18:41 19 April 2025)
 -   📺 Watched episode 1 - 15 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:20 19 April 2025)
 -   📺 Watched episode 1 - 1125 of [ONE PIECE](https://anilist.co/anime/21) (18:09 14 April 2025)
