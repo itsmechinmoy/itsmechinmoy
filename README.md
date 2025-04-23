@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (13:50 23 April 2025)
 -   📺 Watched episode 1 - 1126 of [ONE PIECE](https://anilist.co/anime/21) (19:11 20 April 2025)
 -   📺 Watched episode 1 - 3 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:59 20 April 2025)
 -   📺 Watched episode 1 - 3 of [Fire Force Season 3](https://anilist.co/anime/149118) (18:41 19 April 2025)
 -   📺 Watched episode 1 - 15 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:20 19 April 2025)
--   📺 Watched episode 1 - 12 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:09 13 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
