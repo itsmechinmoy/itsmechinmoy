@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Black Gieop Joseon](https://anilist.co/manga/173633) (13:49 24 April 2025)
 -   📖 Read chapter 1 - 182 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (16:38 23 April 2025)
 -   📺 Watched episode 1 - 1126 of [ONE PIECE](https://anilist.co/anime/21) (19:11 20 April 2025)
 -   📺 Watched episode 1 - 3 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:59 20 April 2025)
 -   📺 Watched episode 1 - 3 of [Fire Force Season 3](https://anilist.co/anime/149118) (18:41 19 April 2025)
--   📺 Watched episode 1 - 15 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:20 19 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
