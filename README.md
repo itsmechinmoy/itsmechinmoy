@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 19 of [Mori Jixieshi](https://anilist.co/manga/150604) (08:04 25 April 2025)
 -   📖 Read chapter 1 of [Nae Choeaeneun Makchareul Tanda](https://anilist.co/manga/187944) (16:29 24 April 2025)
 -   📖 Read chapter 1 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:12 24 April 2025)
 -   📖 Read chapter 1 - 35 of [Game Master](https://anilist.co/manga/181511) (16:04 24 April 2025)
 -   📖 Read chapter 1 - 64 of [Black Gieop Joseon](https://anilist.co/manga/173633) (15:03 24 April 2025)
--   📖 Read chapter 1 - 182 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (16:38 23 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
