@@ -15,7 +15,7 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Mori Jixieshi](https://anilist.co/manga/150604) (08:04 25 April 2025)
+-   📖 Read chapter 1 - 43 of [Mori Jixieshi](https://anilist.co/manga/150604) (08:45 25 April 2025)
 -   📖 Read chapter 1 of [Nae Choeaeneun Makchareul Tanda](https://anilist.co/manga/187944) (16:29 24 April 2025)
 -   📖 Read chapter 1 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:12 24 April 2025)
 -   📖 Read chapter 1 - 35 of [Game Master](https://anilist.co/manga/181511) (16:04 24 April 2025)
