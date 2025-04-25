@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (09:53 25 April 2025)
 -   📖 Read chapter 1 - 43 of [Mori Jixieshi](https://anilist.co/manga/150604) (08:45 25 April 2025)
 -   📖 Read chapter 1 of [Nae Choeaeneun Makchareul Tanda](https://anilist.co/manga/187944) (16:29 24 April 2025)
 -   📖 Read chapter 1 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:12 24 April 2025)
 -   📖 Read chapter 1 - 35 of [Game Master](https://anilist.co/manga/181511) (16:04 24 April 2025)
--   📖 Read chapter 1 - 64 of [Black Gieop Joseon](https://anilist.co/manga/173633) (15:03 24 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
