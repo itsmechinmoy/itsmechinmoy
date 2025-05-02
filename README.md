@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 500 of [Release that Witch](https://anilist.co/manga/108152) (13:32 02 May 2025)
 -   📺 Watched episode 1 - 1127 of [ONE PIECE](https://anilist.co/anime/21) (17:14 30 April 2025)
--   📖 Read chapter 1 - 250 of [Release that Witch](https://anilist.co/manga/108152) (14:09 30 April 2025)
 -   📖 Read chapter 1 - 35 of [Murime Tteoreojin Hyeondaein](https://anilist.co/manga/159445) (10:09 27 April 2025)
 -   📖 Read chapter 1 - 141 of [The Divine Surgeon](https://anilist.co/manga/145134) (16:05 26 April 2025)
 -   📖 Read chapter 1 of [Become the Castellan in Another World](https://anilist.co/manga/118368) (15:45 25 April 2025)
