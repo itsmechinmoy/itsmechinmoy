@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (17:33 03 May 2025)
 -   📺 Watched episode 1 - 5 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (17:16 03 May 2025)
 -   📖 Read chapter 1 of [Murime Tteoreojin Hyeondaein](https://anilist.co/manga/159445) (13:10 03 May 2025)
 -   📖 Read chapter 1 - 7 of [Omniscient Reader](https://anilist.co/manga/119257) (13:09 03 May 2025)
 -   📖 Read chapter 1 - 500 of [Release that Witch](https://anilist.co/manga/108152) (13:32 02 May 2025)
--   📺 Watched episode 1 - 1127 of [ONE PIECE](https://anilist.co/anime/21) (17:14 30 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
