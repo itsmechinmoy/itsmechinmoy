@@ -15,8 +15,8 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 1130 of [ONE PIECE](https://anilist.co/anime/21) (17:26 25 May 2025)
 -   📺 Watched episode 1 - 19 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:08 24 May 2025)
--   📺 Watched episode 1 - 1129 of [ONE PIECE](https://anilist.co/anime/21) (17:07 18 May 2025)
 -   📺 Watched episode 1 of [The Beginning After the End](https://anilist.co/anime/183161) (09:59 04 May 2025)
 -   📺 Watched episode 1 of [LAZARUS](https://anilist.co/anime/167336) (09:57 04 May 2025)
 -   📺 Watched episode 1 - 5 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (17:16 03 May 2025)
