@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 1151 of [One Piece](https://anilist.co/manga/30013) (06:31 11 July 2025)
 -   📺 Watched episode 1 - 24 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:43 10 July 2025)
 -   📺 Watched episode 1 - 1135 of [ONE PIECE](https://anilist.co/anime/21) (15:07 10 July 2025)
 -   📖 Read chapter 113 of [Resigning and Healing in Another World](https://anilist.co/manga/163455) (05:31 04 July 2025)
 -   📖 Read chapter 151 - 207 of [Chainsaw Man](https://anilist.co/manga/105778) (18:52 01 July 2025)
--   📖 Read chapter 1 of [Kingdom](https://anilist.co/manga/46765) (13:13 29 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
