@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (08:20 27 July 2025)
--   📺 Watched episode 1 - 1136 of [ONE PIECE](https://anilist.co/anime/21) (06:16 17 July 2025)
--   📖 Read chapter 1 - 1151 of [One Piece](https://anilist.co/manga/30013) (06:31 11 July 2025)
--   📺 Watched episode 1 - 24 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:43 10 July 2025)
--   📖 Read chapter 113 of [Resigning and Healing in Another World](https://anilist.co/manga/163455) (05:31 04 July 2025)
+-   📖 Read chapter 25 - 68 of [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV Kinki Kourin Teien Salem - Itan Naru Salem](https://anilist.co/manga/107556) (19:34 27 July 2025)
+-   📖 Read chapter 216 - 220 of [Vinland Saga](https://anilist.co/manga/30642) (19:33 27 July 2025)
+-   📖 Read chapter 29 - 129 of [Kaiju No.8](https://anilist.co/manga/120760) (19:32 27 July 2025)
+-   📖 Read chapter 1 - 537 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:32 27 July 2025)
+-   📖 Read chapter 29 - 40 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (19:30 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
