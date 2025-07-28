@@ -15,11 +15,11 @@
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:34 28 July 2025)
 -   📖 Read chapter 25 - 68 of [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV Kinki Kourin Teien Salem - Itan Naru Salem](https://anilist.co/manga/107556) (19:34 27 July 2025)
 -   📖 Read chapter 216 - 220 of [Vinland Saga](https://anilist.co/manga/30642) (19:33 27 July 2025)
 -   📖 Read chapter 29 - 129 of [Kaiju No.8](https://anilist.co/manga/120760) (19:32 27 July 2025)
 -   📖 Read chapter 1 - 537 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:32 27 July 2025)
--   📖 Read chapter 29 - 40 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (19:30 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <div align="center">
