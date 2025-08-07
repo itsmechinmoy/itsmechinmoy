@@ -11,22 +11,18 @@
 
 <div align="center">
 
-# Anilist Activity
+<!--# Anilist Activity
 </div>
-<!-- ANILIST_ACTIVITY:start -->
-
 -   📖 Read chapter 25 - 68 of [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV Kinki Kourin Teien Salem - Itan Naru Salem](https://anilist.co/manga/107556) (03:46 29 July 2025)
 -   📖 Read chapter 216 - 220 of [Vinland Saga](https://anilist.co/manga/30642) (03:46 29 July 2025)
 -   📖 Read chapter 29 - 129 of [Kaiju No.8](https://anilist.co/manga/120760) (03:45 29 July 2025)
 -   📖 Read chapter 75 - 111 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103850) (03:45 29 July 2025)
 -   📖 Read chapter 29 - 40 of [Tokyo Revengers: A Letter from Keisuke Baji](https://anilist.co/manga/151997) (03:44 29 July 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
+-->
 <div align="center">
     
 # Stats
 [![Itsmechinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmechinmoy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=25004176&theme=dark" height="194"/>
 </div>
 <!--START_SECTION:waka-->
 
@@ -48,9 +44,10 @@ Bash              2 hrs 50 mins   ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<div align="center">
+<!--<div align="center">
 
 # Repositories
 [![Itsmechinmoy's Dantotsu stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotsu&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotsu)
 [![Itsmechinmoy's Dantotustatic stats](https://github-readme-stats.vercel.app/api/pin/?username=itsmechinmoy&repo=dantotustatic&show_icons=true&theme=algolia&description_lines_count=1)](https://github.com/itsmechinmoy/dantotustatic)
 </div>
+-->
