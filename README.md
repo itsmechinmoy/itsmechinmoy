@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 01 August 2026
+From: 11 May 2024 - To: 02 August 2026
 
-Total Time: 235 hrs 16 mins
+Total Time: 235 hrs 27 mins
 
-HTML              53 hrs 38 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-Python            46 hrs 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JavaScript        22 hrs 56 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+HTML              53 hrs 38 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Python            46 hrs 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+JavaScript        22 hrs 56 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 Other             16 hrs 21 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 JSON              14 hrs 7 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 Kotlin            12 hrs 24 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
