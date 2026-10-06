@@ -27,20 +27,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 04 October 2026
+From: 11 May 2024 - To: 05 October 2026
 
-Total Time: 238 hrs 18 mins
+Total Time: 238 hrs 29 mins
 
-HTML              53 hrs 39 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Python            47 hrs 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-JavaScript        23 hrs 56 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Other             17 hrs 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON              14 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+HTML              53 hrs 39 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Python            47 hrs 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+JavaScript        24 hrs 6 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Other             17 hrs 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+JSON              14 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 Kotlin            12 hrs 24 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 C                 8 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-CSS               7 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Markdown          7 hrs 57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+CSS               7 hrs 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Markdown          7 hrs 57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
